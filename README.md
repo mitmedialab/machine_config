@@ -12,8 +12,8 @@ Here is what you need to do to get a machine up to spec
 - install ubuntu 12.04 
 - create an user called prg
 - install git (`sudo apt-get install git`)
-- check this repository out
-- go to machine_config/ubuntu-12.04
+- check this repository out (`cd ~; git clone https://github.com/personal-robots/machine_config.git`)
+- go to `~/machine_config/ubuntu-12.04`
 - run initialize (`sudo ./initialize.sh`)
 - create an user for yourself
 - login as that user
