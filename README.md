@@ -16,6 +16,16 @@ Here is what you need to do to get a machine up to spec
 - go to `~/machine_config/ubuntu-12.04`
 - run initialize (`sudo ./initialize.sh`)
 - create an user for yourself
+  
+        $ sudo adduser newuser
+        $ sudo /usr/sbin/visudo
+
+- Give your user sudo privledges
+
+        # User privilege specification
+        root    ALL=(ALL:ALL) ALL 
+        newuser	ALL=(ALL:ALL) ALL
+- Add this user to 
 - login as that user
 - run `rosdep update`
 - enjoy
