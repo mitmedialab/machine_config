@@ -28,3 +28,8 @@ rosdep init
 
 PROG_PATH=$(dirname $0)
 ${PROG_PATH}/update.sh
+
+echo Enabling firewall...
+${PROG_PATH}/config_firewall.sh
+
+echo All done
