@@ -15,10 +15,10 @@ fi
 cp /etc/apt/sources.list /etc/apt/sources.list.backup
 sed 's@http://us\.archive\.ubuntu\.com/@http://mirrors.mit.edu/@' -i /etc/apt/sources.list
 
-
+echo "switched to mit mirrors"
 # ROS setup
 sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-wget https://raw.github.usercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
+sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
 
 # refresh cache
 apt-get -y update
