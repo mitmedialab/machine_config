@@ -1,2634 +1,2634 @@
-account-plugin-aim				install
-account-plugin-facebook				install
-account-plugin-flickr				install
-account-plugin-google				install
-account-plugin-jabber				install
-account-plugin-salut				install
-account-plugin-twitter				install
-account-plugin-windows-live			install
-account-plugin-yahoo				install
-accountsservice					install
-acl						install
-acpi-support					install
-acpid						install
-activity-log-manager				install
-activity-log-manager-control-center		install
-adduser						install
-adium-theme-ubuntu				install
-aisleriot					install
-alsa-base					install
-alsa-utils					install
-anacron						install
-ant						install
-ant-optional					install
-apg						install
-app-install-data				install
-app-install-data-partner			install
-apparmor					install
-appmenu-qt					install
-appmenu-qt5					install
-apport						install
-apport-gtk					install
-apport-symptoms					install
-apt						install
-apt-transport-https				install
-apt-utils					install
-apt-xapian-index				install
-aptdaemon					install
-aptdaemon-data					install
-apturl						install
-apturl-common					install
-aspell						install
-aspell-en					install
-at-spi2-core					install
-autotools-dev					install
-avahi-autoipd					install
-avahi-daemon					install
-avahi-utils					install
-bamfdaemon					install
-baobab						install
-base-files					install
-base-passwd					install
-bash						install
-bash-completion					install
-bc						install
-bind9-host					install
-binfmt-support					install
-binutils					install
-bluez						install
-bluez-alsa:i386					install
-bluez-cups					install
-branding-ubuntu					install
-brasero						install
-brasero-cdrkit					install
-brasero-common					install
-brltty						install
-bsdmainutils					install
-bsdutils					install
-build-essential					install
-busybox-initramfs				install
-busybox-static					install
-bzip2						install
-bzr						install
-ca-certificates					install
-ca-certificates-java				install
-checkbox-gui					install
-checkbox-ng					install
-checkbox-ng-service				install
-cheese						install
-cheese-common					install
-chromium-codecs-ffmpeg-extra			install
-cmake						install
-cmake-data					install
-collada-dom-dev					install
-collada-dom2.4-dp-base				install
-collada-dom2.4-dp-dev				install
-colord						install
-comerr-dev					install
-command-not-found				install
-command-not-found-data				install
-compiz						install
-compiz-core					install
-compiz-gnome					install
-compiz-plugins-default				install
-console-setup					install
-coreutils					install
-cpio						install
-cpp						install
-cpp-4.8						install
-cracklib-runtime				install
-crda						install
-cron						install
-cups						install
-cups-browsed					install
-cups-bsd					install
-cups-client					install
-cups-common					install
-cups-core-drivers				install
-cups-daemon					install
-cups-filters					install
-cups-filters-core-drivers			install
-cups-pk-helper					install
-cups-ppdc					install
-cups-server-common				install
-dash						install
-dbus						install
-dbus-x11					install
-dc						install
-dconf-cli					install
-dconf-gsettings-backend:i386			install
-dconf-service					install
-debconf						install
-debconf-i18n					install
-debhelper					install
-debianutils					install
-default-jdk					install
-default-jre					install
-default-jre-headless				install
-deja-dup					install
-deja-dup-backend-gvfs				install
-desktop-file-utils				install
-dh-apparmor					install
-dh-python					install
-dialog						install
-dictionaries-common				install
-diffstat					install
-diffutils					install
-dkms						install
-dmidecode					install
-dmsetup						install
-dmz-cursor-theme				install
-dnsmasq-base					install
-dnsutils					install
-doc-base					install
-docutils-common					install
-docutils-doc					install
-dosfstools					install
-dpkg						install
-dpkg-dev					install
-duplicity					install
-dvd+rw-tools					install
-e2fslibs:i386					install
-e2fsprogs					install
-ed						install
-eject						install
-empathy						install
-empathy-common					install
-enchant						install
-eog						install
-espeak-data:i386				install
-ethtool						install
-evince						install
-evince-common					install
-evolution-data-server				install
-evolution-data-server-common			install
-evolution-data-server-online-accounts		install
-example-content					install
-fakeroot					install
-file						install
-file-roller					install
-findutils					install
-firefox						install
-firefox-locale-en				install
-flashplugin-installer				install
-fltk1.3-doc					install
-fluid						install
-folks-common					install
-fontconfig					install
-fontconfig-config				install
-fonts-dejavu-core				install
-fonts-dejavu-extra				install
-fonts-droid					install
-fonts-freefont-ttf				install
-fonts-kacst					install
-fonts-kacst-one					install
-fonts-khmeros-core				install
-fonts-lao					install
-fonts-liberation				install
-fonts-lklug-sinhala				install
-fonts-lyx					install
-fonts-nanum					install
-fonts-opensymbol				install
-fonts-sil-abyssinica				install
-fonts-sil-padauk				install
-fonts-takao-pgothic				install
-fonts-thai-tlwg					install
-fonts-tibetan-machine				install
-fonts-tlwg-garuda				install
-fonts-tlwg-kinnari				install
-fonts-tlwg-loma					install
-fonts-tlwg-mono					install
-fonts-tlwg-norasi				install
-fonts-tlwg-purisa				install
-fonts-tlwg-sawasdee				install
-fonts-tlwg-typewriter				install
-fonts-tlwg-typist				install
-fonts-tlwg-typo					install
-fonts-tlwg-umpush				install
-fonts-tlwg-waree				install
-foomatic-db-compressed-ppds			install
-freeglut3:i386					install
-freepats					install
-friendly-recovery				install
-friends						install
-friends-dispatcher				install
-friends-facebook				install
-friends-twitter					install
-ftp						install
-fuse						install
-g++						install
-g++-4.8						install
-gazebo2						install
-gcc						install
-gcc-4.8						install
-gcc-4.8-base:i386				install
-gcc-4.9-base:i386				install
-gconf-service					install
-gconf-service-backend				install
-gconf2						install
-gconf2-common					install
-gcr						install
-gdb						install
-gdisk						install
-gedit						install
-gedit-common					install
-genisoimage					install
-geoclue						install
-geoclue-ubuntu-geoip				install
-geoip-database					install
-gettext						install
-gettext-base					install
-ghostscript					install
-ghostscript-x					install
-gir1.2-accounts-1.0				install
-gir1.2-appindicator3-0.1			install
-gir1.2-atk-1.0					install
-gir1.2-atspi-2.0				install
-gir1.2-dbusmenu-glib-0.4			install
-gir1.2-dee-1.0					install
-gir1.2-ebook-1.2				install
-gir1.2-ebookcontacts-1.2			install
-gir1.2-edataserver-1.2				install
-gir1.2-freedesktop				install
-gir1.2-gdata-0.0				install
-gir1.2-gdkpixbuf-2.0				install
-gir1.2-glib-2.0					install
-gir1.2-gmenu-3.0				install
-gir1.2-gnomebluetooth-1.0			install
-gir1.2-gnomekeyring-1.0				install
-gir1.2-goa-1.0					install
-gir1.2-gst-plugins-base-1.0			install
-gir1.2-gstreamer-1.0				install
-gir1.2-gtk-2.0					install
-gir1.2-gtk-3.0					install
-gir1.2-gtksource-3.0				install
-gir1.2-gudev-1.0				install
-gir1.2-ibus-1.0					install
-gir1.2-javascriptcoregtk-3.0			install
-gir1.2-messagingmenu-1.0			install
-gir1.2-networkmanager-1.0			install
-gir1.2-notify-0.7				install
-gir1.2-packagekitglib-1.0			install
-gir1.2-pango-1.0				install
-gir1.2-peas-1.0					install
-gir1.2-rb-3.0					install
-gir1.2-secret-1					install
-gir1.2-signon-1.0				install
-gir1.2-soup-2.4					install
-gir1.2-totem-1.0				install
-gir1.2-totem-plparser-1.0			install
-gir1.2-udisks-2.0				install
-gir1.2-unity-5.0:i386				install
-gir1.2-vte-2.90					install
-gir1.2-webkit-3.0				install
-gir1.2-wnck-3.0					install
-git						install
-git-core					install
-git-man						install
-gkbd-capplet					install
-glib-networking:i386				install
-glib-networking-common				install
-glib-networking-services			install
-gnome-accessibility-themes			install
-gnome-bluetooth					install
-gnome-calculator				install
-gnome-contacts					install
-gnome-control-center-shared-data		install
-gnome-desktop3-data				install
-gnome-disk-utility				install
-gnome-font-viewer				install
-gnome-icon-theme				install
-gnome-icon-theme-symbolic			install
-gnome-keyring					install
-gnome-mahjongg					install
-gnome-menus					install
-gnome-mines					install
-gnome-orca					install
-gnome-power-manager				install
-gnome-screensaver				install
-gnome-screenshot				install
-gnome-session-bin				install
-gnome-session-canberra				install
-gnome-session-common				install
-gnome-settings-daemon-schemas			install
-gnome-sudoku					install
-gnome-system-log				install
-gnome-system-monitor				install
-gnome-terminal					install
-gnome-terminal-data				install
-gnome-user-guide				install
-gnome-user-share				install
-gnome-video-effects				install
-gnomine						install
-gnupg						install
-gpgv						install
-graphviz					install
-grep						install
-groff-base					install
-growisofs					install
-grub-common					install
-grub-gfxpayload-lists				install
-grub-pc						install
-grub-pc-bin					install
-grub2-common					install
-gsettings-desktop-schemas			install
-gsettings-ubuntu-schemas			install
-gsfonts						install
-gstreamer0.10-alsa:i386				install
-gstreamer0.10-fluendo-mp3:i386			install
-gstreamer0.10-nice:i386				install
-gstreamer0.10-plugins-bad:i386			install
-gstreamer0.10-plugins-base:i386			install
-gstreamer0.10-plugins-base-apps			install
-gstreamer0.10-plugins-good:i386			install
-gstreamer0.10-plugins-ugly:i386			install
-gstreamer0.10-pulseaudio:i386			install
-gstreamer0.10-tools				install
-gstreamer0.10-x:i386				install
-gstreamer1.0-alsa:i386				install
-gstreamer1.0-clutter				install
-gstreamer1.0-fluendo-mp3:i386			install
-gstreamer1.0-libav:i386				install
-gstreamer1.0-nice:i386				install
-gstreamer1.0-plugins-bad:i386			install
-gstreamer1.0-plugins-bad-faad:i386		install
-gstreamer1.0-plugins-bad-videoparsers:i386	install
-gstreamer1.0-plugins-base:i386			install
-gstreamer1.0-plugins-base-apps			install
-gstreamer1.0-plugins-good:i386			install
-gstreamer1.0-plugins-ugly:i386			install
-gstreamer1.0-pulseaudio:i386			install
-gstreamer1.0-tools				install
-gstreamer1.0-x:i386				install
-gtk2-engines-murrine:i386			install
-gtk3-engines-unico:i386				install
-gucharmap					install
-guile-2.0-libs					install
-gvfs:i386					install
-gvfs-backends					install
-gvfs-bin					install
-gvfs-common					install
-gvfs-daemons					install
-gvfs-fuse					install
-gvfs-libs:i386					install
-gzip						install
-hardening-includes				install
-hddtemp						install
-hdparm						install
-hicolor-icon-theme				install
-hostname					install
-hplip						install
-hplip-data					install
-hud						install
-humanity-icon-theme				install
-hunspell-en-us					install
-hwdata						install
-hyphen-en-us					install
-ibus						install
-ibus-gtk:i386					install
-ibus-gtk3:i386					install
-ibus-pinyin					install
-ibus-table					install
-icu-devtools					install
-ifupdown					install
-im-config					install
-indicator-application				install
-indicator-appmenu				install
-indicator-bluetooth				install
-indicator-datetime				install
-indicator-keyboard				install
-indicator-messages				install
-indicator-power					install
-indicator-printers				install
-indicator-session				install
-indicator-sound					install
-info						install
-init-system-helpers				install
-initramfs-tools					install
-initramfs-tools-bin				install
-initscripts					install
-inputattach					install
-insserv						install
-install-info					install
-intel-gpu-tools					install
-intltool-debian					install
-iproute						install
-iproute2					install
-iptables					install
-iputils-arping					install
-iputils-ping					install
-iputils-tracepath				install
-irqbalance					install
-isc-dhcp-client					install
-isc-dhcp-common					install
-iso-codes					install
-iw						install
-java-common					install
-kbd						install
-kerneloops-daemon				install
-keyboard-configuration				install
-klibc-utils					install
-kmod						install
-krb5-locales					install
-krb5-multidev					install
-landscape-client-ui-install			install
-language-pack-en				install
-language-pack-en-base				install
-language-pack-gnome-en				install
-language-pack-gnome-en-base			install
-language-selector-common			install
-language-selector-gnome				install
-laptop-detect					install
-less						install
-liba52-0.7.4					install
-libaa1:i386					install
-libaccount-plugin-1.0-0				install
-libaccount-plugin-generic-oauth			install
-libaccount-plugin-google			install
-libaccounts-glib0:i386				install
-libaccounts-qt5-1				install
-libaccountsservice0:i386			install
-libacl1:i386					install
-libalgorithm-diff-perl				install
-libalgorithm-diff-xs-perl			install
-libalgorithm-merge-perl				install
-liballegro4.4:i386				install
-liballegro4.4-plugin-alsa:i386			install
-libapparmor-perl				install
-libapparmor1:i386				install
-libappindicator3-1				install
-libapr1:i386					install
-libapr1-dev					install
-libaprutil1:i386				install
-libaprutil1-dev					install
-libapt-inst1.5:i386				install
-libapt-pkg-perl					install
-libapt-pkg4.12:i386				install
-libarchive-extract-perl				install
-libarchive-zip-perl				install
-libarchive13:i386				install
-libart-2.0-2:i386				install
-libasan0:i386					install
-libasn1-8-heimdal:i386				install
-libasound2:i386					install
-libasound2-data					install
-libasound2-plugins:i386				install
-libaspell15					install
-libasprintf-dev:i386				install
-libasprintf0c2:i386				install
-libass4:i386					install
-libassimp-dev					install
-libassimp3					install
-libassuan0:i386					install
-libasyncns0:i386				install
-libatasmart4:i386				install
-libatk-adaptor:i386				install
-libatk-bridge2.0-0:i386				install
-libatk-wrapper-java				install
-libatk-wrapper-java-jni:i386			install
-libatk1.0-0:i386				install
-libatk1.0-data					install
-libatk1.0-dev					install
-libatkmm-1.6-1:i386				install
-libatomic1:i386					install
-libatspi2.0-0:i386				install
-libattr1:i386					install
-libaudio2:i386					install
-libaudit-common					install
-libaudit1:i386					install
-libauthen-sasl-perl				install
-libautodie-perl					install
-libavahi-client3:i386				install
-libavahi-common-data:i386			install
-libavahi-common3:i386				install
-libavahi-core7:i386				install
-libavahi-glib1:i386				install
-libavahi-gobject0:i386				install
-libavc1394-0:i386				install
-libavcodec-dev					install
-libavcodec54:i386				install
-libavformat-dev					install
-libavformat54:i386				install
-libavutil-dev					install
-libavutil52:i386				install
-libbamf3-2:i386					install
-libbind9-90					install
-libblas3					install
-libblkid1:i386					install
-libbluetooth3:i386				install
-libbonobo2-0:i386				install
-libbonobo2-common				install
-libbonoboui2-0:i386				install
-libbonoboui2-common				install
-libboost-all-dev				install
-libboost-atomic-dev:i386			install
-libboost-atomic1.54-dev:i386			install
-libboost-atomic1.54.0:i386			install
-libboost-chrono-dev:i386			install
-libboost-chrono1.54-dev:i386			install
-libboost-chrono1.54.0:i386			install
-libboost-context-dev:i386			install
-libboost-context1.54-dev:i386			install
-libboost-context1.54.0:i386			install
-libboost-coroutine-dev				install
-libboost-coroutine1.54-dev			install
-libboost-date-time-dev:i386			install
-libboost-date-time1.54-dev:i386			install
-libboost-date-time1.54.0:i386			install
-libboost-dev					install
-libboost-exception-dev:i386			install
-libboost-exception1.54-dev:i386			install
-libboost-filesystem-dev:i386			install
-libboost-filesystem1.54-dev:i386		install
-libboost-filesystem1.54.0:i386			install
-libboost-graph-dev:i386				install
-libboost-graph-parallel-dev			install
-libboost-graph-parallel1.54-dev			install
-libboost-graph-parallel1.54.0			install
-libboost-graph1.54-dev:i386			install
-libboost-graph1.54.0:i386			install
-libboost-iostreams-dev:i386			install
-libboost-iostreams1.54-dev:i386			install
-libboost-iostreams1.54.0:i386			install
-libboost-locale-dev:i386			install
-libboost-locale1.54-dev:i386			install
-libboost-locale1.54.0:i386			install
-libboost-log-dev				install
-libboost-log1.54-dev				install
-libboost-log1.54.0				install
-libboost-math-dev:i386				install
-libboost-math1.54-dev:i386			install
-libboost-math1.54.0:i386			install
-libboost-mpi-dev				install
-libboost-mpi-python-dev				install
-libboost-mpi-python1.54-dev			install
-libboost-mpi-python1.54.0			install
-libboost-mpi1.54-dev				install
-libboost-mpi1.54.0				install
-libboost-program-options-dev:i386		install
-libboost-program-options1.54-dev:i386		install
-libboost-program-options1.54.0:i386		install
-libboost-python-dev				install
-libboost-python1.54-dev:i386			install
-libboost-python1.54.0:i386			install
-libboost-random-dev:i386			install
-libboost-random1.54-dev:i386			install
-libboost-random1.54.0:i386			install
-libboost-regex-dev:i386				install
-libboost-regex1.54-dev:i386			install
-libboost-regex1.54.0:i386			install
-libboost-serialization-dev:i386			install
-libboost-serialization1.54-dev:i386		install
-libboost-serialization1.54.0:i386		install
-libboost-signals-dev:i386			install
-libboost-signals1.54-dev:i386			install
-libboost-signals1.54.0:i386			install
-libboost-system-dev:i386			install
-libboost-system1.54-dev:i386			install
-libboost-system1.54.0:i386			install
-libboost-test-dev:i386				install
-libboost-test1.54-dev:i386			install
-libboost-test1.54.0:i386			install
-libboost-thread-dev:i386			install
-libboost-thread1.54-dev:i386			install
-libboost-thread1.54.0:i386			install
-libboost-timer-dev:i386				install
-libboost-timer1.54-dev:i386			install
-libboost-timer1.54.0:i386			install
-libboost-tools-dev				install
-libboost-wave-dev:i386				install
-libboost-wave1.54-dev:i386			install
-libboost-wave1.54.0:i386			install
-libboost1.54-dev				install
-libboost1.54-tools-dev				install
-libbrasero-media3-1				install
-libbrlapi0.6:i386				install
-libbsd0:i386					install
-libburn4					install
-libbz2-1.0:i386					install
-libbz2-dev:i386					install
-libc-bin					install
-libc-dev-bin					install
-libc6:i386					install
-libc6-dbg:i386					install
-libc6-dev:i386					install
-libcaca0:i386					install
-libcairo-gobject2:i386				install
-libcairo-script-interpreter2:i386		install
-libcairo2:i386					install
-libcairo2-dev					install
-libcairomm-1.0-1:i386				install
-libcamel-1.2-45					install
-libcanberra-gtk-module:i386			install
-libcanberra-gtk0:i386				install
-libcanberra-gtk3-0:i386				install
-libcanberra-gtk3-module:i386			install
-libcanberra-pulse:i386				install
-libcanberra0:i386				install
-libcap-ng0					install
-libcap2:i386					install
-libcap2-bin					install
-libcdaudio1					install
-libcdio-cdda1					install
-libcdio-paranoia1				install
-libcdio13					install
-libcdparanoia0:i386				install
-libcdr-0.0-0					install
-libcdt5						install
-libcegui-mk2-0.7.6				install
-libcegui-mk2-dev				install
-libcf0						install
-libcgmanager0:i386				install
-libcgraph6					install
-libcheese-gtk23:i386				install
-libcheese7:i386					install
-libchromaprint0:i386				install
-libclass-accessor-perl				install
-libclone-perl					install
-libcloog-isl4:i386				install
-libclucene-contribs1:i386			install
-libclucene-core1:i386				install
-libclutter-1.0-0:i386				install
-libclutter-1.0-common				install
-libclutter-gst-2.0-0:i386			install
-libclutter-gtk-1.0-0:i386			install
-libcmis-0.4-4					install
-libcogl-common					install
-libcogl-pango15:i386				install
-libcogl15:i386					install
-libcolamd2.8.0:i386				install
-libcolord1:i386					install
-libcolorhug1:i386				install
-libcolumbus1:i386				install
-libcolumbus1-common				install
-libcomerr2:i386					install
-libcompizconfig0				install
-libconsole-bridge-dev:i386			install
-libconsole-bridge0.2:i386			install
-libcr0						install
-libcrack2:i386					install
-libcroco3:i386					install
-libcrypt-passwdmd5-perl				install
-libcups2:i386					install
-libcupscgi1:i386				install
-libcupsfilters1:i386				install
-libcupsimage2:i386				install
-libcupsmime1:i386				install
-libcupsppdc1:i386				install
-libcurl3:i386					install
-libcurl3-gnutls:i386				install
-libcurl4-openssl-dev:i386			install
-libcv-dev:i386					install
-libcvaux-dev:i386				install
-libdaemon0					install
-libdatrie1:i386					install
-libdb5.3:i386					install
-libdbus-1-3:i386				install
-libdbus-glib-1-2:i386				install
-libdbusmenu-glib4:i386				install
-libdbusmenu-gtk3-4:i386				install
-libdbusmenu-gtk4:i386				install
-libdbusmenu-qt2:i386				install
-libdbusmenu-qt5:i386				install
-libdc1394-22:i386				install
-libdc1394-22-dev:i386				install
-libdca0:i386					install
-libdconf1:i386					install
-libdebconfclient0:i386				install
-libdebian-installer4:i386			install
-libdecoration0					install
-libdee-1.0-4:i386				install
-libdevil-dev					install
-libdevil1c2					install
-libdevmapper-event1.02.1:i386			install
-libdevmapper1.02.1:i386				install
-libdigest-hmac-perl				install
-libdirac-encoder0:i386				install
-libdirectfb-1.2-9:i386				install
-libdjvulibre-text				install
-libdjvulibre21:i386				install
-libdmapsharing-3.0-2				install
-libdns100					install
-libdotconf0:i386				install
-libdpkg-perl					install
-libdrm-dev:i386					install
-libdrm-intel1:i386				install
-libdrm-nouveau2:i386				install
-libdrm-radeon1:i386				install
-libdrm2:i386					install
-libdv4:i386					install
-libdvdnav4:i386					install
-libdvdread4:i386				install
-libebackend-1.2-7				install
-libebook-1.2-14					install
-libebook-contacts-1.2-0				install
-libecal-1.2-16					install
-libedata-book-1.2-20				install
-libedata-cal-1.2-23				install
-libedataserver-1.2-18				install
-libedit2:i386					install
-libegl1-mesa:i386				install
-libegl1-mesa-drivers:i386			install
-libeigen3-dev					install
-libelf1:i386					install
-libelfg0:i386					install
-libemail-valid-perl				install
-libenca0:i386					install
-libenchant1c2a:i386				install
-liberror-perl					install
-libespeak1:i386					install
-libestr0					install
-libevdocument3-4				install
-libevent-2.0-5:i386				install
-libevview3-3					install
-libexempi3:i386					install
-libexif12:i386					install
-libexiv2-12					install
-libexpat1:i386					install
-libexpat1-dev:i386				install
-libexttextcat-2.0-0				install
-libexttextcat-data				install
-libfaad2:i386					install
-libfakeroot:i386				install
-libfarstream-0.1-0:i386				install
-libfarstream-0.2-2:i386				install
-libffi6:i386					install
-libfftw3-double3:i386				install
-libfftw3-single3:i386				install
-libfile-basedir-perl				install
-libfile-copy-recursive-perl			install
-libfile-desktopentry-perl			install
-libfile-fcntllock-perl				install
-libfile-mimeinfo-perl				install
-libflac8:i386					install
-libflann-dev					install
-libflann1.8:i386				install
-libflite1:i386					install
-libfltk-forms1.3:i386				install
-libfltk-images1.3:i386				install
-libfltk1.1:i386					install
-libfltk1.1-dev					install
-libfltk1.3:i386					install
-libfluidsynth1:i386				install
-libfolks-eds25:i386				install
-libfolks-telepathy25:i386			install
-libfolks25:i386					install
-libfontconfig1:i386				install
-libfontconfig1-dev				install
-libfontembed1:i386				install
-libfontenc1:i386				install
-libframe6:i386					install
-libfreeimage-dev				install
-libfreeimage3					install
-libfreerdp-plugins-standard:i386		install
-libfreerdp1:i386				install
-libfreetype6:i386				install
-libfreetype6-dev				install
-libfribidi0:i386				install
-libfriends0:i386				install
-libfs6:i386					install
-libfuse2:i386					install
-libgail-3-0:i386				install
-libgail-common:i386				install
-libgail18:i386					install
-libgbm1:i386					install
-libgc1c2:i386					install
-libgcc-4.8-dev:i386				install
-libgcc1:i386					install
-libgck-1-0:i386					install
-libgconf-2-4:i386				install
-libgconf2-4:i386				install
-libgcr-3-common					install
-libgcr-base-3-1:i386				install
-libgcr-ui-3-1:i386				install
-libgcrypt11:i386				install
-libgcrypt11-dev					install
-libgd3:i386					install
-libgdata-common					install
-libgdata13					install
-libgdbm3:i386					install
-libgdk-pixbuf2.0-0:i386				install
-libgdk-pixbuf2.0-common				install
-libgdk-pixbuf2.0-dev				install
-libgee-0.8-2:i386				install
-libgee2:i386					install
-libgeis1:i386					install
-libgeoclue0:i386				install
-libgeoip1:i386					install
-libgeos-3.4.2					install
-libgeos-c1					install
-libgettextpo-dev:i386				install
-libgettextpo0:i386				install
-libgexiv2-2:i386				install
-libgfortran3:i386				install
-libgif4:i386					install
-libgirepository-1.0-1				install
-libgl1-mesa-dev					install
-libgl1-mesa-dri:i386				install
-libgl1-mesa-glx:i386				install
-libgl2ps-dev					install
-libgl2ps0					install
-libglade2-0:i386				install
-libglamor0:i386					install
-libglapi-mesa:i386				install
-libgles2-mesa:i386				install
-libglew1.10:i386				install
-libglewmx1.10:i386				install
-libglib2.0-0:i386				install
-libglib2.0-bin					install
-libglib2.0-data					install
-libglib2.0-dev					install
-libglibmm-2.4-1c2a:i386				install
-libglu1-mesa:i386				install
-libglu1-mesa-dev				install
-libgme0						install
-libgmime-2.6-0:i386				install
-libgmp10:i386					install
-libgnome-bluetooth11				install
-libgnome-control-center1			install
-libgnome-desktop-3-7				install
-libgnome-keyring-common				install
-libgnome-keyring0:i386				install
-libgnome-menu-3-0				install
-libgnome2-0:i386				install
-libgnome2-bin					install
-libgnome2-common				install
-libgnomecanvas2-0:i386				install
-libgnomecanvas2-common				install
-libgnomekbd-common				install
-libgnomekbd8					install
-libgnomeui-0:i386				install
-libgnomeui-common				install
-libgnomevfs2-0:i386				install
-libgnomevfs2-common				install
-libgnutls-dev					install
-libgnutls-openssl27:i386			install
-libgnutls26:i386				install
-libgnutlsxx27:i386				install
-libgoa-1.0-0b:i386				install
-libgoa-1.0-common				install
-libgomp1:i386					install
-libgpg-error-dev				install
-libgpg-error0:i386				install
-libgpgme11:i386					install
-libgphoto2-6:i386				install
-libgphoto2-l10n					install
-libgphoto2-port10:i386				install
-libgpm2:i386					install
-libgpod-common					install
-libgpod4:i386					install
-libgrail6					install
-libgraphite2-3:i386				install
-libgrip0					install
-libgs9						install
-libgs9-common					install
-libgsettings-qt1:i386				install
-libgsl0ldbl					install
-libgsm1:i386					install
-libgssapi-krb5-2:i386				install
-libgssapi3-heimdal:i386				install
-libgssdp-1.0-3					install
-libgssrpc4:i386					install
-libgstreamer-plugins-bad0.10-0:i386		install
-libgstreamer-plugins-bad1.0-0:i386		install
-libgstreamer-plugins-base0.10-0:i386		install
-libgstreamer-plugins-base1.0-0:i386		install
-libgstreamer-plugins-good1.0-0:i386		install
-libgstreamer0.10-0:i386				install
-libgstreamer1.0-0:i386				install
-libgtest-dev					install
-libgtk-3-0:i386					install
-libgtk-3-bin					install
-libgtk-3-common					install
-libgtk2.0-0:i386				install
-libgtk2.0-bin					install
-libgtk2.0-common				install
-libgtk2.0-dev					install
-libgtkglext1					install
-libgtkmm-2.4-1c2a:i386				install
-libgtkmm-3.0-1:i386				install
-libgtksourceview-3.0-1:i386			install
-libgtksourceview-3.0-common			install
-libgtop2-7					install
-libgtop2-common					install
-libgucharmap-2-90-7				install
-libgudev-1.0-0:i386				install
-libgupnp-1.0-4					install
-libgupnp-igd-1.0-4:i386				install
-libgusb2:i386					install
-libgutenprint2					install
-libgvc6						install
-libgvpr2					install
-libgweather-3-6					install
-libgweather-common				install
-libgxps2:i386					install
-libharfbuzz-dev					install
-libharfbuzz-gobject0:i386			install
-libharfbuzz-icu0:i386				install
-libharfbuzz0b:i386				install
-libhcrypto4-heimdal:i386			install
-libhdf5-7:i386					install
-libheimbase1-heimdal:i386			install
-libheimntlm0-heimdal:i386			install
-libhighgui-dev:i386				install
-libhpmud0					install
-libhud2:i386					install
-libhunspell-1.3-0:i386				install
-libhwloc-dev:i386				install
-libhwloc-plugins				install
-libhwloc5:i386					install
-libhx509-5-heimdal:i386				install
-libhyphen0					install
-libibus-1.0-5:i386				install
-libibverbs-dev					install
-libibverbs1					install
-libical1					install
-libice-dev:i386					install
-libice6:i386					install
-libicu-dev:i386					install
-libicu52:i386					install
-libidl-common					install
-libidl0:i386					install
-libidn11:i386					install
-libidn11-dev					install
-libido3-0.1-0:i386				install
-libiec61883-0:i386				install
-libieee1284-3:i386				install
-libijs-0.35					install
-libilmbase-dev					install
-libilmbase6:i386				install
-libimobiledevice4:i386				install
-libindicator3-7					install
-libio-pty-perl					install
-libio-socket-inet6-perl				install
-libio-socket-ssl-perl				install
-libio-string-perl				install
-libipc-run-perl					install
-libipc-system-simple-perl			install
-libisc95					install
-libisccc90					install
-libisccfg90					install
-libisl10:i386					install
-libisofs6					install
-libitm1:i386					install
-libiw30:i386					install
-libjack-jackd2-0:i386				install
-libjasper-dev					install
-libjasper1:i386					install
-libjavascriptcoregtk-3.0-0:i386			install
-libjbig-dev:i386				install
-libjbig0:i386					install
-libjbig2dec0					install
-libjpeg-dev:i386				install
-libjpeg-turbo8:i386				install
-libjpeg-turbo8-dev:i386				install
-libjpeg8:i386					install
-libjpeg8-dev:i386				install
-libjs-jquery					install
-libjson-c2:i386					install
-libjson-glib-1.0-0:i386				install
-libjson-glib-1.0-common				install
-libjson0:i386					install
-libjte1						install
-libk5crypto3:i386				install
-libkadm5clnt-mit9:i386				install
-libkadm5srv-mit9:i386				install
-libkate1					install
-libkdb5-7:i386					install
-libkeyutils1:i386				install
-libklibc					install
-libkmod2:i386					install
-libkpathsea6					install
-libkrb5-26-heimdal:i386				install
-libkrb5-3:i386					install
-libkrb5-dev					install
-libkrb5support0:i386				install
-liblangtag-common				install
-liblangtag1					install
-liblapack3					install
-liblcms1:i386					install
-liblcms1-dev:i386				install
-liblcms2-2:i386					install
-liblcms2-dev:i386				install
-libldap-2.4-2:i386				install
-libldap2-dev:i386				install
-libldb1:i386					install
-liblightdm-gobject-1-0				install
-liblircclient0					install
-liblist-moreutils-perl				install
-libllvm3.4:i386					install
-liblocale-gettext-perl				install
-liblockfile-bin					install
-liblockfile1:i386				install
-liblodo3.0					install
-liblog-message-simple-perl			install
-liblog4cxx10					install
-liblog4cxx10-dev				install
-liblouis-data					install
-liblouis2:i386					install
-libltdl-dev:i386				install
-libltdl7:i386					install
-liblua5.1-0:i386				install
-liblua5.1-0-dev:i386				install
-liblua5.2-0:i386				install
-liblwres90					install
-liblz4-1:i386					install
-liblz4-dev:i386					install
-liblzma-dev:i386				install
-liblzma5:i386					install
-liblzo2-2:i386					install
-libmad0:i386					install
-libmagic1:i386					install
-libmail-sendmail-perl				install
-libmailtools-perl				install
-libmbim-glib0:i386				install
-libmeanwhile1					install
-libmessaging-menu0				install
-libmetacity-private0a				install
-libmhash2:i386					install
-libmimic0					install
-libminiupnpc8					install
-libmission-control-plugins0			install
-libmm-glib0:i386				install
-libmms0:i386					install
-libmng-dev:i386					install
-libmng2:i386					install
-libmnl0:i386					install
-libmodplug1					install
-libmodule-pluggable-perl			install
-libmount1:i386					install
-libmp3lame0:i386				install
-libmpc3:i386					install
-libmpcdec6					install
-libmpdec2:i386					install
-libmpeg2-4:i386					install
-libmpfr4:i386					install
-libmpg123-0:i386				install
-libmspub-0.0-0					install
-libmtdev1:i386					install
-libmtp-common					install
-libmtp-runtime					install
-libmtp9:i386					install
-libmysqlclient-dev				install
-libmysqlclient18:i386				install
-libmythes-1.2-0					install
-libnatpmp1					install
-libnautilus-extension1a				install
-libncurses5:i386				install
-libncursesw5:i386				install
-libneon27-gnutls				install
-libnet-dns-perl					install
-libnet-domain-tld-perl				install
-libnet-ip-perl					install
-libnet-libidn-perl				install
-libnet-smtp-ssl-perl				install
-libnet-ssleay-perl				install
-libnetcdf-dev					install
-libnetcdfc++4					install
-libnetcdfc7					install
-libnetcdff5					install
-libnetfilter-conntrack3:i386			install
-libnettle4:i386					install
-libnewt0.52:i386				install
-libnfnetlink0:i386				install
-libnice10:i386					install
-libnih-dbus1:i386				install
-libnih1:i386					install
-libnl-3-200:i386				install
-libnl-genl-3-200:i386				install
-libnl-route-3-200:i386				install
-libnm-glib-vpn1					install
-libnm-glib4					install
-libnm-gtk-common				install
-libnm-gtk0					install
-libnm-util2					install
-libnotify-bin					install
-libnotify4:i386					install
-libnspr4:i386					install
-libnss-mdns:i386				install
-libnss3:i386					install
-libnss3-1d:i386					install
-libnss3-nssdb					install
-libntdb1:i386					install
-libnuma1:i386					install
-libnux-4.0-0					install
-libnux-4.0-common				install
-liboauth0:i386					install
-libodbc1:i386					install
-libofa0						install
-libogg-dev:i386					install
-libogg0:i386					install
-libogre-1.8-dev					install
-libogre-1.8.0:i386				install
-liboil0.3:i386					install
-libois-1.3.0:i386				install
-libopenal-data					install
-libopenal1:i386					install
-libopencc1:i386					install
-libopencore-amrnb0:i386				install
-libopencore-amrwb0:i386				install
-libopencv-calib3d-dev:i386			install
-libopencv-calib3d2.4:i386			install
-libopencv-contrib-dev:i386			install
-libopencv-contrib2.4:i386			install
-libopencv-core-dev:i386				install
-libopencv-core2.4:i386				install
-libopencv-dev					install
-libopencv-features2d-dev:i386			install
-libopencv-features2d2.4:i386			install
-libopencv-flann-dev:i386			install
-libopencv-flann2.4:i386				install
-libopencv-gpu-dev:i386				install
-libopencv-gpu2.4:i386				install
-libopencv-highgui-dev:i386			install
-libopencv-highgui2.4:i386			install
-libopencv-imgproc-dev:i386			install
-libopencv-imgproc2.4:i386			install
-libopencv-legacy-dev:i386			install
-libopencv-legacy2.4:i386			install
-libopencv-ml-dev:i386				install
-libopencv-ml2.4:i386				install
-libopencv-objdetect-dev:i386			install
-libopencv-objdetect2.4:i386			install
-libopencv-ocl-dev:i386				install
-libopencv-ocl2.4:i386				install
-libopencv-photo-dev:i386			install
-libopencv-photo2.4:i386				install
-libopencv-stitching-dev:i386			install
-libopencv-stitching2.4:i386			install
-libopencv-superres-dev:i386			install
-libopencv-superres2.4:i386			install
-libopencv-ts-dev:i386				install
-libopencv-ts2.4:i386				install
-libopencv-video-dev:i386			install
-libopencv-video2.4:i386				install
-libopencv-videostab-dev:i386			install
-libopencv-videostab2.4:i386			install
-libopencv2.4-java				install
-libopencv2.4-jni				install
-libopenexr-dev					install
-libopenexr6:i386				install
-libopenjpeg2:i386				install
-libopenmpi-dev					install
-libopenmpi1.6					install
-libopenni-dev					install
-libopenni-sensor-pointclouds0			install
-libopenni0					install
-libopenobex1					install
-libopenvg1-mesa:i386				install
-libopus0					install
-liborbit-2-0:i386				install
-liborbit2:i386					install
-liborc-0.4-0:i386				install
-liborcus-0.6-0					install
-liboxideqt-qmlplugin:i386			install
-liboxideqtcore0:i386				install
-libp11-kit-dev					install
-libp11-kit-gnome-keyring:i386			install
-libp11-kit0:i386				install
-libpackagekit-glib2-16:i386			install
-libpam-cap:i386					install
-libpam-gnome-keyring:i386			install
-libpam-modules:i386				install
-libpam-modules-bin				install
-libpam-runtime					install
-libpam-systemd:i386				install
-libpam0g:i386					install
-libpango-1.0-0:i386				install
-libpango1.0-0:i386				install
-libpango1.0-dev					install
-libpangocairo-1.0-0:i386			install
-libpangoft2-1.0-0:i386				install
-libpangomm-1.4-1:i386				install
-libpangox-1.0-0:i386				install
-libpangoxft-1.0-0:i386				install
-libpaper-utils					install
-libpaper1:i386					install
-libparse-debianchangelog-perl			install
-libparted0debian1:i386				install
-libpathplan4					install
-libpcap0.8:i386					install
-libpci-dev					install
-libpci3:i386					install
-libpciaccess0:i386				install
-libpcl-1.7-all					install
-libpcl-1.7-all-dev				install
-libpcl-1.7-bin					install
-libpcl-1.7-doc					install
-libpcl-apps-1.7					install
-libpcl-apps-1.7-dev				install
-libpcl-common-1.7				install
-libpcl-common-1.7-dev				install
-libpcl-features-1.7				install
-libpcl-features-1.7-dev				install
-libpcl-filters-1.7				install
-libpcl-filters-1.7-dev				install
-libpcl-geometry-1.7-dev				install
-libpcl-io-1.7					install
-libpcl-io-1.7-dev				install
-libpcl-kdtree-1.7				install
-libpcl-kdtree-1.7-dev				install
-libpcl-keypoints-1.7				install
-libpcl-keypoints-1.7-dev			install
-libpcl-octree-1.7				install
-libpcl-octree-1.7-dev				install
-libpcl-outofcore-1.7				install
-libpcl-outofcore-1.7-dev			install
-libpcl-people-1.7				install
-libpcl-people-1.7-dev				install
-libpcl-recognition-1.7				install
-libpcl-recognition-1.7-dev			install
-libpcl-registration-1.7				install
-libpcl-registration-1.7-dev			install
-libpcl-sample-consensus-1.7			install
-libpcl-sample-consensus-1.7-dev			install
-libpcl-search-1.7				install
-libpcl-search-1.7-dev				install
-libpcl-segmentation-1.7				install
-libpcl-segmentation-1.7-dev			install
-libpcl-surface-1.7				install
-libpcl-surface-1.7-dev				install
-libpcl-tracking-1.7				install
-libpcl-tracking-1.7-dev				install
-libpcl-visualization-1.7			install
-libpcl-visualization-1.7-dev			install
-libpcre3:i386					install
-libpcre3-dev:i386				install
-libpcrecpp0:i386				install
-libpcsclite1:i386				install
-libpeas-1.0-0					install
-libpeas-common					install
-libperl5.18					install
-libperlio-gzip-perl				install
-libphonon4:i386					install
-libpipeline1:i386				install
-libpixman-1-0:i386				install
-libpixman-1-dev					install
-libplayerc++3.0					install
-libplayerc3.0					install
-libplayercommon3.0				install
-libplayercore3.0				install
-libplayerdrivers3.0				install
-libplayerinterface3.0				install
-libplayerjpeg3.0				install
-libplayertcp3.0					install
-libplayerwkb3.0					install
-libplist1:i386					install
-libplymouth2:i386				install
-libpmap3.0					install
-libpng12-0:i386					install
-libpng12-dev					install
-libpocketsphinx1				install
-libpoco-dev					install
-libpococrypto9					install
-libpocodata9					install
-libpocofoundation9				install
-libpocomysql9					install
-libpoconet9					install
-libpoconetssl9					install
-libpocoodbc9					install
-libpocosqlite9					install
-libpocoutil9					install
-libpocoxml9					install
-libpocozip9					install
-libpod-latex-perl				install
-libpolkit-agent-1-0:i386			install
-libpolkit-backend-1-0:i386			install
-libpolkit-gobject-1-0:i386			install
-libpoppler-glib8:i386				install
-libpoppler44:i386				install
-libpopt0:i386					install
-libportaudio2:i386				install
-libpq-dev					install
-libpq5						install
-libprocps3:i386					install
-libprotobuf-dev:i386				install
-libprotobuf-lite8:i386				install
-libprotobuf8:i386				install
-libprotoc8:i386					install
-libproxy1:i386					install
-libproxy1-plugin-gsettings:i386			install
-libproxy1-plugin-networkmanager:i386		install
-libpthread-stubs0-dev:i386			install
-libpulse-mainloop-glib0:i386			install
-libpulse0:i386					install
-libpulsedsp:i386				install
-libpurple-bin					install
-libpurple0					install
-libpwquality-common				install
-libpwquality1:i386				install
-libpyside-dev					install
-libpyside-py3-1.2:i386				install
-libpyside1.2:i386				install
-libpython-dev:i386				install
-libpython-stdlib:i386				install
-libpython2.7:i386				install
-libpython2.7-dev:i386				install
-libpython2.7-minimal:i386			install
-libpython2.7-stdlib:i386			install
-libpython3-stdlib:i386				install
-libpython3.4:i386				install
-libpython3.4-minimal:i386			install
-libpython3.4-stdlib:i386			install
-libpyzy-1.0-0					install
-libqhull-dev:i386				install
-libqhull6:i386					install
-libqmi-glib0:i386				install
-libqpdf13:i386					install
-libqt4-dbus:i386				install
-libqt4-declarative:i386				install
-libqt4-designer:i386				install
-libqt4-dev					install
-libqt4-dev-bin					install
-libqt4-help:i386				install
-libqt4-network:i386				install
-libqt4-opengl:i386				install
-libqt4-opengl-dev				install
-libqt4-qt3support:i386				install
-libqt4-script:i386				install
-libqt4-scripttools:i386				install
-libqt4-sql:i386					install
-libqt4-sql-sqlite:i386				install
-libqt4-svg:i386					install
-libqt4-test:i386				install
-libqt4-xml:i386					install
-libqt4-xmlpatterns:i386				install
-libqt5core5a:i386				install
-libqt5dbus5:i386				install
-libqt5feedback5:i386				install
-libqt5gui5:i386					install
-libqt5multimedia5:i386				install
-libqt5network5:i386				install
-libqt5opengl5:i386				install
-libqt5organizer5:i386				install
-libqt5positioning5:i386				install
-libqt5printsupport5:i386			install
-libqt5qml-graphicaleffects:i386			install
-libqt5qml5:i386					install
-libqt5quick5:i386				install
-libqt5sensors5:i386				install
-libqt5sql5:i386					install
-libqt5sql5-sqlite:i386				install
-libqt5svg5:i386					install
-libqt5test5:i386				install
-libqt5webkit5:i386				install
-libqt5webkit5-qmlwebkitplugin:i386		install
-libqt5widgets5:i386				install
-libqt5xml5:i386					install
-libqtassistantclient4:i386			install
-libqtcore4:i386					install
-libqtdbus4:i386					install
-libqtgui4:i386					install
-libqtwebkit-dev					install
-libqtwebkit4:i386				install
-libquadmath0:i386				install
-libqwt-dev					install
-libqwt5-qt4					install
-libqwt6						install
-libraptor2-0:i386				install
-librasqal3:i386					install
-libraw1394-11:i386				install
-libraw1394-dev:i386				install
-libraw1394-tools				install
-libraw9:i386					install
-librdf0:i386					install
-libreadline-dev:i386				install
-libreadline5:i386				install
-libreadline6:i386				install
-libreadline6-dev:i386				install
-libreoffice-avmedia-backend-gstreamer		install
-libreoffice-base-core				install
-libreoffice-calc				install
-libreoffice-common				install
-libreoffice-core				install
-libreoffice-draw				install
-libreoffice-gnome				install
-libreoffice-gtk					install
-libreoffice-help-en-us				install
-libreoffice-impress				install
-libreoffice-math				install
-libreoffice-ogltrans				install
-libreoffice-pdfimport				install
-libreoffice-presentation-minimizer		install
-libreoffice-style-human				install
-libreoffice-writer				install
-librest-0.7-0:i386				install
-librhythmbox-core8				install
-libroken18-heimdal:i386				install
-librsvg2-2:i386					install
-librsvg2-common:i386				install
-librsync1:i386					install
-librtmp-dev					install
-librtmp0:i386					install
-libruby1.9.1					install
-libsamplerate0:i386				install
-libsane:i386					install
-libsane-common					install
-libsane-hpaio					install
-libsasl2-2:i386					install
-libsasl2-modules:i386				install
-libsasl2-modules-db:i386			install
-libsbc1:i386					install
-libschroedinger-1.0-0:i386			install
-libsctp-dev					install
-libsctp1:i386					install
-libsdformat-dev:i386				install
-libsdformat1:i386				install
-libsdl1.2debian:i386				install
-libsecret-1-0:i386				install
-libsecret-common				install
-libselinux1:i386				install
-libsemanage-common				install
-libsemanage1:i386				install
-libsensors4:i386				install
-libsepol1:i386					install
-libserf-1-1:i386				install
-libsgutils2-2					install
-libshiboken-dev					install
-libshiboken-py3-1.2:i386			install
-libshiboken1.2:i386				install
-libshout3:i386					install
-libsidplay1					install
-libsigc++-2.0-0c2a:i386				install
-libsignon-extension1				install
-libsignon-glib1					install
-libsignon-plugins-common1			install
-libsignon-qt5-1					install
-libsilly					install
-libslang2:i386					install
-libslv2-9					install
-libsm-dev:i386					install
-libsm6:i386					install
-libsmbclient:i386				install
-libsndfile1:i386				install
-libsnmp-base					install
-libsnmp30:i386					install
-libsocket6-perl					install
-libsonic0:i386					install
-libsoundtouch0:i386				install
-libsoup-gnome2.4-1:i386				install
-libsoup2.4-1:i386				install
-libspandsp2					install
-libspectre1:i386				install
-libspeechd2:i386				install
-libspeex1:i386					install
-libspeexdsp1:i386				install
-libsphinxbase1					install
-libsqlite3-0:i386				install
-libsqlite3-dev:i386				install
-libsrtp0					install
-libss2:i386					install
-libssh-4:i386					install
-libssl-dev:i386					install
-libssl-doc					install
-libssl1.0.0:i386				install
-libstartup-notification0:i386			install
-libstatgrab9					install
-libstdc++-4.8-dev:i386				install
-libstdc++6:i386					install
-libsub-identify-perl				install
-libsub-name-perl				install
-libsvn1:i386					install
-libswscale-dev					install
-libswscale2:i386				install
-libsys-hostname-long-perl			install
-libsystemd-daemon0:i386				install
-libsystemd-journal0:i386			install
-libsystemd-login0:i386				install
-libt1-5						install
-libtag1-vanilla:i386				install
-libtag1c2a:i386					install
-libtalloc2:i386					install
-libtar0						install
-libtasn1-6:i386					install
-libtasn1-6-dev					install
-libtbb-dev					install
-libtbb2						install
-libtcl8.6:i386					install
-libtdb1:i386					install
-libtelepathy-farstream3:i386			install
-libtelepathy-glib0:i386				install
-libtelepathy-logger3:i386			install
-libterm-ui-perl					install
-libtevent0:i386					install
-libtext-charwidth-perl				install
-libtext-iconv-perl				install
-libtext-levenshtein-perl			install
-libtext-soundex-perl				install
-libtext-wrapi18n-perl				install
-libthai-data					install
-libthai0:i386					install
-libtheora-dev:i386				install
-libtheora0:i386					install
-libthumbnailer0:i386				install
-libtiff5:i386					install
-libtiff5-dev:i386				install
-libtiffxx5:i386					install
-libtimedate-perl				install
-libtimezonemap1					install
-libtinfo-dev:i386				install
-libtinfo5:i386					install
-libtinyxml-dev:i386				install
-libtinyxml2.6.2:i386				install
-libtk8.6:i386					install
-libtool						install
-libtorque2					install
-libtotem-plparser18				install
-libtotem0					install
-libts-0.0-0:i386				install
-libtwolame0					install
-libtxc-dxtn-s2tc0:i386				install
-libudev1:i386					install
-libudisks2-0:i386				install
-libufe-xidgetter0				install
-libunistring0:i386				install
-libunity-action-qt1:i386			install
-libunity-control-center1			install
-libunity-core-6.0-9				install
-libunity-gtk2-parser0:i386			install
-libunity-gtk3-parser0:i386			install
-libunity-misc4					install
-libunity-protocol-private0:i386			install
-libunity-scopes-json-def-desktop		install
-libunity-webapps0				install
-libunity9:i386					install
-libunityvoice1:i386				install
-libupower-glib1:i386				install
-libupstart1:i386				install
-liburdfdom-dev:i386				install
-liburdfdom-headers-dev				install
-liburdfdom-model-state0.2:i386			install
-liburdfdom-model0.2:i386			install
-liburdfdom-sensor0.2:i386			install
-liburdfdom-world0.2:i386			install
-liburi-perl					install
-liburiparser1					install
-liburl-dispatcher1:i386				install
-libusb-0.1-4:i386				install
-libusb-1.0-0:i386				install
-libusb-1.0-0-dev:i386				install
-libusb-1.0-doc					install
-libusbmuxd2					install
-libustr-1.0-1:i386				install
-libutempter0					install
-libuuid-perl					install
-libuuid1:i386					install
-libv4l-0:i386					install
-libv4lconvert0:i386				install
-libva1:i386					install
-libvisio-0.0-0					install
-libvisual-0.4-0:i386				install
-libvisual-0.4-plugins:i386			install
-libvncserver0:i386				install
-libvo-aacenc0:i386				install
-libvo-amrwbenc0:i386				install
-libvorbis0a:i386				install
-libvorbisenc2:i386				install
-libvorbisfile3:i386				install
-libvpx1:i386					install
-libvte-2.90-9					install
-libvte-2.90-common				install
-libvtk-java					install
-libvtk5-dev					install
-libvtk5-qt4-dev					install
-libvtk5.8					install
-libvtk5.8-qt4					install
-libwacom-common					install
-libwacom2:i386					install
-libwavpack1:i386				install
-libwayland-client0:i386				install
-libwayland-cursor0:i386				install
-libwayland-egl1-mesa:i386			install
-libwayland-server0:i386				install
-libwbclient0:i386				install
-libwebkitgtk-3.0-0:i386				install
-libwebkitgtk-3.0-common				install
-libwebp5:i386					install
-libwebpmux1:i386				install
-libwhoopsie-preferences0			install
-libwhoopsie0					install
-libwildmidi-config				install
-libwildmidi1:i386				install
-libwind0-heimdal:i386				install
-libwmf0.2-7:i386				install
-libwmf0.2-7-gtk					install
-libwnck-3-0:i386				install
-libwnck-3-common				install
-libwnck-common					install
-libwnck22					install
-libwpd-0.9-9					install
-libwpg-0.2-2					install
-libwps-0.2-2					install
-libwrap0:i386					install
-libwxbase2.8-0:i386				install
-libwxgtk-media2.8-0:i386			install
-libwxgtk2.8-0:i386				install
-libx11-6:i386					install
-libx11-data					install
-libx11-dev:i386					install
-libx11-doc					install
-libx11-xcb-dev:i386				install
-libx11-xcb1:i386				install
-libx264-142:i386				install
-libx86-1:i386					install
-libxapian22					install
-libxatracker2:i386				install
-libxau-dev:i386					install
-libxau6:i386					install
-libxaw7:i386					install
-libxaw7-dev:i386				install
-libxcb-dri2-0:i386				install
-libxcb-dri2-0-dev:i386				install
-libxcb-dri3-0:i386				install
-libxcb-dri3-dev:i386				install
-libxcb-glx0:i386				install
-libxcb-glx0-dev:i386				install
-libxcb-icccm4:i386				install
-libxcb-image0:i386				install
-libxcb-keysyms1:i386				install
-libxcb-present-dev:i386				install
-libxcb-present0:i386				install
-libxcb-randr0:i386				install
-libxcb-randr0-dev:i386				install
-libxcb-render-util0:i386			install
-libxcb-render0:i386				install
-libxcb-render0-dev:i386				install
-libxcb-shape0:i386				install
-libxcb-shape0-dev:i386				install
-libxcb-shm0:i386				install
-libxcb-shm0-dev:i386				install
-libxcb-sync-dev:i386				install
-libxcb-sync1:i386				install
-libxcb-util0:i386				install
-libxcb-xfixes0:i386				install
-libxcb-xfixes0-dev:i386				install
-libxcb-xkb1:i386				install
-libxcb1:i386					install
-libxcb1-dev:i386				install
-libxcomposite-dev				install
-libxcomposite1:i386				install
-libxcursor-dev:i386				install
-libxcursor1:i386				install
-libxdamage-dev:i386				install
-libxdamage1:i386				install
-libxdmcp-dev:i386				install
-libxdmcp6:i386					install
-libxerces-c3.1:i386				install
-libxerces2-java					install
-libxext-dev:i386				install
-libxext6:i386					install
-libxfixes-dev:i386				install
-libxfixes3:i386					install
-libxfont1:i386					install
-libxft-dev					install
-libxft2:i386					install
-libxi-dev					install
-libxi6:i386					install
-libxinerama-dev:i386				install
-libxinerama1:i386				install
-libxkbcommon-x11-0:i386				install
-libxkbcommon0:i386				install
-libxkbfile1:i386				install
-libxklavier16					install
-libxml-commons-external-java			install
-libxml-commons-resolver1.1-java			install
-libxml2:i386					install
-libxml2-dev:i386				install
-libxml2-utils					install
-libxmu-dev:i386					install
-libxmu-headers					install
-libxmu6:i386					install
-libxmuu1:i386					install
-libxp6:i386					install
-libxpm-dev:i386					install
-libxpm4:i386					install
-libxrandr-dev:i386				install
-libxrandr2:i386					install
-libxrender-dev:i386				install
-libxrender1:i386				install
-libxres1:i386					install
-libxshmfence-dev:i386				install
-libxshmfence1:i386				install
-libxslt1.1:i386					install
-libxss-dev:i386					install
-libxss1:i386					install
-libxt-dev:i386					install
-libxt6:i386					install
-libxtables10					install
-libxtst6:i386					install
-libxv1:i386					install
-libxvidcore4:i386				install
-libxvmc1:i386					install
-libxxf86dga1:i386				install
-libxxf86vm-dev:i386				install
-libxxf86vm1:i386				install
-libyajl2:i386					install
-libyaml-0-2:i386				install
-libyaml-cpp-dev					install
-libyaml-cpp0.5:i386				install
-libyaml-tiny-perl				install
-libyelp0					install
-libzbar0					install
-libzeitgeist-1.0-1				install
-libzeitgeist-2.0-0:i386				install
-libzephyr4:i386					install
-libzvbi-common					install
-libzvbi0:i386					install
-libzzip-0-13:i386				install
-libzzip-dev					install
-light-themes					install
-lightdm						install
-lintian						install
-linux-firmware					install
-linux-generic					install
-linux-headers-3.13.0-32				install
-linux-headers-3.13.0-32-generic			install
-linux-headers-generic				install
-linux-image-3.13.0-32-generic			install
-linux-image-extra-3.13.0-32-generic		install
-linux-image-generic				install
-linux-libc-dev:i386				install
-linux-sound-base				install
-lksctp-tools					install
-locales						install
-lockfile-progs					install
-login						install
-logrotate					install
-lp-solve					install
-lsb-base					install
-lsb-release					install
-lshw						install
-lsof						install
-ltrace						install
-make						install
-makedev						install
-man-db						install
-manpages					install
-manpages-dev					install
-mawk						install
-mcp-account-manager-uoa				install
-media-player-info				install
-memtest86+					install
-mercurial					install
-mercurial-common				install
-mesa-common-dev					install
-metacity-common					install
-mime-support					install
-mlocate						install
-mobile-broadband-provider-info			install
-modemmanager					install
-module-init-tools				install
-mount						install
-mountall					install
-mousetweaks					install
-mpi-default-bin					install
-mpi-default-dev					install
-mscompress					install
-mtools						install
-mtr-tiny					install
-multiarch-support				install
-myspell-en-au					install
-myspell-en-gb					install
-myspell-en-za					install
-mysql-common					install
-mythes-en-us					install
-nano						install
-nautilus					install
-nautilus-data					install
-nautilus-sendto					install
-nautilus-sendto-empathy				install
-nautilus-share					install
-ncurses-base					install
-ncurses-bin					install
-net-tools					install
-netbase						install
-netcat-openbsd					install
-network-manager					install
-network-manager-gnome				install
-network-manager-pptp				install
-network-manager-pptp-gnome			install
-notify-osd					install
-notify-osd-icons				install
-ntfs-3g						install
-ntpdate						install
-nux-tools					install
-obex-data-server				install
-obexd-client					install
-ocl-icd-libopencl1:i386				install
-onboard						install
-onboard-data					install
-oneconf						install
-oneconf-common					install
-opencv-data					install
-openjdk-7-jdk:i386				install
-openjdk-7-jre:i386				install
-openjdk-7-jre-headless:i386			install
-openmpi-bin					install
-openmpi-common					install
-openni-utils					install
-openoffice.org-hyphenation			install
-openprinting-ppds				install
-openssh-client					install
-openssl						install
-os-prober					install
-overlay-scrollbar				install
-overlay-scrollbar-gtk2:i386			install
-overlay-scrollbar-gtk3:i386			install
-oxideqt-codecs-extra:i386			install
-p11-kit						install
-p11-kit-modules:i386				install
-parted						install
-passwd						install
-patch						install
-patchutils					install
-pciutils					install
-pcmciautils					install
-perl						install
-perl-base					install
-perl-modules					install
-phonon:i386					install
-phonon-backend-gstreamer:i386			install
-phonon-backend-gstreamer-common:i386		install
-phonon-backend-gstreamer1.0			install
-pkg-config					install
-plainbox-provider-checkbox			install
-plainbox-provider-resource-generic		install
-plainbox-secure-policy				install
-plymouth					install
-plymouth-label					install
-plymouth-theme-ubuntu-logo			install
-plymouth-theme-ubuntu-text			install
-pm-utils					install
-po-debconf					install
-policykit-1					install
-policykit-1-gnome				install
-policykit-desktop-privileges			install
-poppler-data					install
-poppler-utils					install
-popularity-contest				install
-powermgmt-base					install
-ppp						install
-pppconfig					install
-pppoeconf					install
-pptp-linux					install
-printer-driver-c2esp				install
-printer-driver-foo2zjs				install
-printer-driver-foo2zjs-common			install
-printer-driver-gutenprint			install
-printer-driver-hpcups				install
-printer-driver-min12xxw				install
-printer-driver-pnm2ppa				install
-printer-driver-postscript-hp			install
-printer-driver-ptouch				install
-printer-driver-pxljr				install
-printer-driver-sag-gdi				install
-printer-driver-splix				install
-procps						install
-psmisc						install
-pulseaudio					install
-pulseaudio-module-bluetooth			install
-pulseaudio-module-x11				install
-pulseaudio-utils				install
-python						install
-python-apt					install
-python-apt-common				install
-python-aptdaemon				install
-python-aptdaemon.gtk3widgets			install
-python-bson					install
-python-bson-ext					install
-python-bzrlib					install
-python-cairo					install
-python-catkin-pkg				install
-python-chardet					install
-python-commandnotfound				install
-python-configobj				install
-python-crypto					install
-python-cups					install
-python-cupshelpers				install
-python-dateutil					install
-python-dbus					install
-python-dbus-dev					install
-python-debian					install
-python-debtagshw				install
-python-defer					install
-python-dev					install
-python-dirspec					install
-python-docutils					install
-python-empy					install
-python-gconf					install
-python-gdbm					install
-python-gi					install
-python-gi-cairo					install
-python-glade2					install
-python-gnomekeyring				install
-python-gobject					install
-python-gobject-2				install
-python-gpgme					install
-python-gtk2					install
-python-httplib2					install
-python-ibus					install
-python-imaging					install
-python-keyring					install
-python-launchpadlib				install
-python-lazr.restfulclient			install
-python-lazr.uri					install
-python-ldb					install
-python-libxml2					install
-python-lockfile					install
-python-lxml					install
-python-matplotlib				install
-python-matplotlib-data				install
-python-minimal					install
-python-netifaces				install
-python-nose					install
-python-notify					install
-python-ntdb					install
-python-numpy					install
-python-oauth					install
-python-oauthlib					install
-python-oneconf					install
-python-opencv					install
-python-opengl					install
-python-openssl					install
-python-pam					install
-python-paramiko					install
-python-pexpect					install
-python-pil					install
-python-piston-mini-client			install
-python-pkg-resources				install
-python-psutil					install
-python-pycurl					install
-python-pydot					install
-python-pygments					install
-python-pyparsing				install
-python-pyside					install
-python-pyside.phonon				install
-python-pyside.qtcore				install
-python-pyside.qtdeclarative			install
-python-pyside.qtgui				install
-python-pyside.qthelp				install
-python-pyside.qtnetwork				install
-python-pyside.qtopengl				install
-python-pyside.qtscript				install
-python-pyside.qtsql				install
-python-pyside.qtsvg				install
-python-pyside.qttest				install
-python-pyside.qtuitools				install
-python-pyside.qtwebkit				install
-python-pyside.qtxml				install
-python-qt4					install
-python-qt4-dbus					install
-python-qt4-dev					install
-python-qt4-gl					install
-python-qwt5-qt4					install
-python-renderpm					install
-python-reportlab				install
-python-reportlab-accel				install
-python-roman					install
-python-rosdep					install
-python-rosdistro				install
-python-rosinstall				install
-python-rospkg					install
-python-samba					install
-python-secretstorage				install
-python-serial					install
-python-setuptools				install
-python-simplejson				install
-python-sip					install
-python-sip-dev					install
-python-six					install
-python-smbc					install
-python-support					install
-python-talloc					install
-python-tdb					install
-python-tk					install
-python-twisted-bin				install
-python-twisted-core				install
-python-twisted-web				install
-python-tz					install
-python-ubuntu-sso-client			install
-python-vcstools					install
-python-vtk					install
-python-wadllib					install
-python-wstool					install
-python-wxgtk2.8					install
-python-wxversion				install
-python-xapian					install
-python-xdg					install
-python-yaml					install
-python-zeitgeist				install
-python-zope.interface				install
-python2.7					install
-python2.7-dev					install
-python2.7-minimal				install
-python3						install
-python3-apport					install
-python3-apt					install
-python3-aptdaemon				install
-python3-aptdaemon.gtk3widgets			install
-python3-aptdaemon.pkcompat			install
-python3-brlapi					install
-python3-cairo					install
-python3-chardet					install
-python3-checkbox-ng				install
-python3-checkbox-support			install
-python3-commandnotfound				install
-python3-crypto					install
-python3-dbus					install
-python3-debian					install
-python3-defer					install
-python3-distupgrade				install
-python3-feedparser				install
-python3-gdbm:i386				install
-python3-gi					install
-python3-gi-cairo				install
-python3-httplib2				install
-python3-louis					install
-python3-lxml					install
-python3-mako					install
-python3-markupsafe				install
-python3-minimal					install
-python3-oauthlib				install
-python3-oneconf					install
-python3-piston-mini-client			install
-python3-pkg-resources				install
-python3-plainbox				install
-python3-problem-report				install
-python3-pyatspi					install
-python3-pycurl					install
-python3-pyparsing				install
-python3-requests				install
-python3-six					install
-python3-software-properties			install
-python3-speechd					install
-python3-uno					install
-python3-update-manager				install
-python3-urllib3					install
-python3-xdg					install
-python3-xkit					install
-python3.4					install
-python3.4-minimal				install
-qdbus						install
-qpdf						install
-qt-at-spi:i386					install
-qt4-linguist-tools				install
-qt4-qmake					install
-qtchooser					install
-qtcore4-l10n					install
-qtdeclarative5-accounts-plugin			install
-qtdeclarative5-dialogs-plugin:i386		install
-qtdeclarative5-localstorage-plugin:i386		install
-qtdeclarative5-privatewidgets-plugin:i386	install
-qtdeclarative5-qtfeedback-plugin:i386		install
-qtdeclarative5-qtquick2-plugin:i386		install
-qtdeclarative5-ubuntu-ui-extras-browser-plugin:i386	install
-qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets	install
-qtdeclarative5-ubuntu-ui-toolkit-plugin:i386	install
-qtdeclarative5-unity-action-plugin:i386		install
-qtdeclarative5-window-plugin:i386		install
-readline-common					install
-remmina						install
-remmina-common					install
-remmina-plugin-rdp				install
-remmina-plugin-vnc				install
-resolvconf					install
-rfkill						install
-rhythmbox					install
-rhythmbox-data					install
-rhythmbox-mozilla				install
-rhythmbox-plugin-cdrecorder			install
-rhythmbox-plugin-magnatune			install
-rhythmbox-plugin-zeitgeist			install
-rhythmbox-plugins				install
-robot-player					install
-ros-indigo-actionlib				install
-ros-indigo-actionlib-msgs			install
-ros-indigo-actionlib-tutorials			install
-ros-indigo-angles				install
-ros-indigo-bond					install
-ros-indigo-bond-core				install
-ros-indigo-bondcpp				install
-ros-indigo-bondpy				install
-ros-indigo-camera-calibration			install
-ros-indigo-camera-calibration-parsers		install
-ros-indigo-camera-info-manager			install
-ros-indigo-catkin				install
-ros-indigo-class-loader				install
-ros-indigo-cmake-modules			install
-ros-indigo-collada-parser			install
-ros-indigo-collada-urdf				install
-ros-indigo-common-msgs				install
-ros-indigo-common-tutorials			install
-ros-indigo-compressed-depth-image-transport	install
-ros-indigo-compressed-image-transport		install
-ros-indigo-control-msgs				install
-ros-indigo-cpp-common				install
-ros-indigo-cv-bridge				install
-ros-indigo-depth-image-proc			install
-ros-indigo-desktop				install
-ros-indigo-desktop-full				install
-ros-indigo-diagnostic-aggregator		install
-ros-indigo-diagnostic-analysis			install
-ros-indigo-diagnostic-common-diagnostics	install
-ros-indigo-diagnostic-msgs			install
-ros-indigo-diagnostic-updater			install
-ros-indigo-diagnostics				install
-ros-indigo-driver-base				install
-ros-indigo-dynamic-reconfigure			install
-ros-indigo-eigen-conversions			install
-ros-indigo-eigen-stl-containers			install
-ros-indigo-executive-smach			install
-ros-indigo-filters				install
-ros-indigo-gazebo-msgs				install
-ros-indigo-gazebo-plugins			install
-ros-indigo-gazebo-ros				install
-ros-indigo-gazebo-ros-pkgs			install
-ros-indigo-gencpp				install
-ros-indigo-genjava				install
-ros-indigo-genlisp				install
-ros-indigo-genmsg				install
-ros-indigo-genpy				install
-ros-indigo-geometric-shapes			install
-ros-indigo-geometry				install
-ros-indigo-geometry-msgs			install
-ros-indigo-geometry-tutorials			install
-ros-indigo-image-common				install
-ros-indigo-image-geometry			install
-ros-indigo-image-pipeline			install
-ros-indigo-image-proc				install
-ros-indigo-image-rotate				install
-ros-indigo-image-transport			install
-ros-indigo-image-transport-plugins		install
-ros-indigo-image-view				install
-ros-indigo-interactive-marker-tutorials		install
-ros-indigo-interactive-markers			install
-ros-indigo-joint-state-publisher		install
-ros-indigo-kdl-conversions			install
-ros-indigo-kdl-parser				install
-ros-indigo-laser-assembler			install
-ros-indigo-laser-filters			install
-ros-indigo-laser-geometry			install
-ros-indigo-laser-pipeline			install
-ros-indigo-librviz-tutorial			install
-ros-indigo-map-msgs				install
-ros-indigo-media-export				install
-ros-indigo-message-filters			install
-ros-indigo-message-generation			install
-ros-indigo-message-runtime			install
-ros-indigo-mk					install
-ros-indigo-nav-msgs				install
-ros-indigo-nodelet				install
-ros-indigo-nodelet-core				install
-ros-indigo-nodelet-topic-tools			install
-ros-indigo-nodelet-tutorial-math		install
-ros-indigo-octomap				install
-ros-indigo-opencv-apps				install
-ros-indigo-orocos-kdl				install
-ros-indigo-pcl-conversions			install
-ros-indigo-pcl-msgs				install
-ros-indigo-pcl-ros				install
-ros-indigo-perception				install
-ros-indigo-perception-pcl			install
-ros-indigo-pluginlib				install
-ros-indigo-pluginlib-tutorials			install
-ros-indigo-pointcloud-to-laserscan		install
-ros-indigo-polled-camera			install
-ros-indigo-pr2-description			install
-ros-indigo-python-orocos-kdl			install
-ros-indigo-python-qt-binding			install
-ros-indigo-qt-dotgraph				install
-ros-indigo-qt-gui				install
-ros-indigo-qt-gui-cpp				install
-ros-indigo-qt-gui-py-common			install
-ros-indigo-random-numbers			install
-ros-indigo-resource-retriever			install
-ros-indigo-robot				install
-ros-indigo-robot-model				install
-ros-indigo-robot-state-publisher		install
-ros-indigo-ros					install
-ros-indigo-ros-base				install
-ros-indigo-ros-comm				install
-ros-indigo-ros-core				install
-ros-indigo-ros-tutorials			install
-ros-indigo-rosapi				install
-ros-indigo-rosauth				install
-ros-indigo-rosbag				install
-ros-indigo-rosbag-migration-rule		install
-ros-indigo-rosbag-storage			install
-ros-indigo-rosbash				install
-ros-indigo-rosboost-cfg				install
-ros-indigo-rosbridge-library			install
-ros-indigo-rosbridge-server			install
-ros-indigo-rosbuild				install
-ros-indigo-rosclean				install
-ros-indigo-rosconsole				install
-ros-indigo-rosconsole-bridge			install
-ros-indigo-roscpp				install
-ros-indigo-roscpp-core				install
-ros-indigo-roscpp-serialization			install
-ros-indigo-roscpp-traits			install
-ros-indigo-roscpp-tutorials			install
-ros-indigo-roscreate				install
-ros-indigo-rosgraph				install
-ros-indigo-rosgraph-msgs			install
-ros-indigo-rosjava-bootstrap			install
-ros-indigo-rosjava-build-tools			install
-ros-indigo-roslang				install
-ros-indigo-roslaunch				install
-ros-indigo-roslib				install
-ros-indigo-roslint				install
-ros-indigo-roslisp				install
-ros-indigo-roslz4				install
-ros-indigo-rosmake				install
-ros-indigo-rosmaster				install
-ros-indigo-rosmsg				install
-ros-indigo-rosnode				install
-ros-indigo-rosout				install
-ros-indigo-rospack				install
-ros-indigo-rosparam				install
-ros-indigo-rospy				install
-ros-indigo-rospy-tutorials			install
-ros-indigo-rosservice				install
-ros-indigo-rostest				install
-ros-indigo-rostime				install
-ros-indigo-rostopic				install
-ros-indigo-rosunit				install
-ros-indigo-roswtf				install
-ros-indigo-rqt-action				install
-ros-indigo-rqt-bag				install
-ros-indigo-rqt-bag-plugins			install
-ros-indigo-rqt-common-plugins			install
-ros-indigo-rqt-console				install
-ros-indigo-rqt-dep				install
-ros-indigo-rqt-graph				install
-ros-indigo-rqt-gui				install
-ros-indigo-rqt-gui-cpp				install
-ros-indigo-rqt-gui-py				install
-ros-indigo-rqt-image-view			install
-ros-indigo-rqt-launch				install
-ros-indigo-rqt-logger-level			install
-ros-indigo-rqt-moveit				install
-ros-indigo-rqt-msg				install
-ros-indigo-rqt-nav-view				install
-ros-indigo-rqt-plot				install
-ros-indigo-rqt-pose-view			install
-ros-indigo-rqt-publisher			install
-ros-indigo-rqt-py-common			install
-ros-indigo-rqt-py-console			install
-ros-indigo-rqt-reconfigure			install
-ros-indigo-rqt-robot-dashboard			install
-ros-indigo-rqt-robot-monitor			install
-ros-indigo-rqt-robot-plugins			install
-ros-indigo-rqt-robot-steering			install
-ros-indigo-rqt-runtime-monitor			install
-ros-indigo-rqt-rviz				install
-ros-indigo-rqt-service-caller			install
-ros-indigo-rqt-shell				install
-ros-indigo-rqt-srv				install
-ros-indigo-rqt-tf-tree				install
-ros-indigo-rqt-top				install
-ros-indigo-rqt-topic				install
-ros-indigo-rqt-web				install
-ros-indigo-rviz					install
-ros-indigo-rviz-plugin-tutorials		install
-ros-indigo-rviz-python-tutorial			install
-ros-indigo-self-test				install
-ros-indigo-sensor-msgs				install
-ros-indigo-shape-msgs				install
-ros-indigo-shape-tools				install
-ros-indigo-simulators				install
-ros-indigo-smach				install
-ros-indigo-smach-msgs				install
-ros-indigo-smach-ros				install
-ros-indigo-smclib				install
-ros-indigo-stage				install
-ros-indigo-stage-ros				install
-ros-indigo-std-msgs				install
-ros-indigo-std-srvs				install
-ros-indigo-stereo-image-proc			install
-ros-indigo-stereo-msgs				install
-ros-indigo-tf					install
-ros-indigo-tf-conversions			install
-ros-indigo-tf2					install
-ros-indigo-tf2-geometry-msgs			install
-ros-indigo-tf2-kdl				install
-ros-indigo-tf2-msgs				install
-ros-indigo-tf2-py				install
-ros-indigo-tf2-ros				install
-ros-indigo-tf2-sensor-msgs			install
-ros-indigo-theora-image-transport		install
-ros-indigo-topic-tools				install
-ros-indigo-trajectory-msgs			install
-ros-indigo-turtle-actionlib			install
-ros-indigo-turtle-tf				install
-ros-indigo-turtle-tf2				install
-ros-indigo-turtlesim				install
-ros-indigo-urdf					install
-ros-indigo-urdf-parser-plugin			install
-ros-indigo-urdf-tutorial			install
-ros-indigo-vision-opencv			install
-ros-indigo-visualization-marker-tutorials	install
-ros-indigo-visualization-msgs			install
-ros-indigo-visualization-tutorials		install
-ros-indigo-viz					install
-ros-indigo-xacro				install
-ros-indigo-xmlrpcpp				install
-rsync						install
-rsyslog						install
-rtkit						install
-ruby						install
-ruby1.9.1					install
-samba-common					install
-samba-common-bin				install
-samba-libs:i386					install
-sane-utils					install
-sbcl						install
-screen						install
-seahorse					install
-sed						install
-sensible-utils					install
-session-migration				install
-sessioninstaller				install
-sgml-base					install
-shared-mime-info				install
-shiboken					install
-shotwell					install
-shotwell-common					install
-signon-keyring-extension			install
-signon-plugin-oauth2				install
-signon-plugin-password				install
-signon-ui					install
-signond						install
-simple-scan					install
-sip-dev						install
-smbclient					install
-sni-qt:i386					install
-software-center					install
-software-center-aptdaemon-plugins		install
-software-properties-common			install
-software-properties-gtk				install
-sound-theme-freedesktop				install
-speech-dispatcher				install
-speech-dispatcher-audio-plugins:i386		install
-sphinx-voxforge-hmm-en				install
-sphinx-voxforge-lm-en				install
-ssh-askpass-gnome				install
-ssl-cert					install
-strace						install
-subversion					install
-sudo						install
-syslinux					install
-syslinux-common					install
-syslinux-legacy					install
-system-config-printer-common			install
-system-config-printer-gnome			install
-system-config-printer-udev			install
-systemd-services				install
-systemd-shim					install
-sysv-rc						install
-sysvinit-utils					install
-t1utils						install
-tango-icon-theme				install
-tar						install
-tcl						install
-tcl-vtk						install
-tcl8.6						install
-tcl8.6-dev:i386					install
-tcpd						install
-tcpdump						install
-telepathy-gabble				install
-telepathy-haze					install
-telepathy-idle					install
-telepathy-indicator				install
-telepathy-logger				install
-telepathy-mission-control-5			install
-telepathy-salut					install
-telnet						install
-thunderbird					install
-thunderbird-gnome-support			install
-thunderbird-locale-en				install
-thunderbird-locale-en-us			install
-time						install
-tk						install
-tk8.6						install
-tk8.6-dev:i386					install
-toshset						install
-totem						install
-totem-common					install
-totem-mozilla					install
-totem-plugins					install
-transmission-common				install
-transmission-gtk				install
-tree						install
-tsconf						install
-ttf-dejavu-core					install
-ttf-indic-fonts-core				install
-ttf-punjabi-fonts				install
-ttf-ubuntu-font-family				install
-tzdata						install
-tzdata-java					install
-ubuntu-artwork					install
-ubuntu-desktop					install
-ubuntu-docs					install
-ubuntu-drivers-common				install
-ubuntu-extras-keyring				install
-ubuntu-keyring					install
-ubuntu-minimal					install
-ubuntu-mono					install
-ubuntu-release-upgrader-core			install
-ubuntu-release-upgrader-gtk			install
-ubuntu-restricted-addons			install
-ubuntu-session					install
-ubuntu-settings					install
-ubuntu-sounds					install
-ubuntu-sso-client				install
-ubuntu-sso-client-qt				install
-ubuntu-standard					install
-ubuntu-system-service				install
-ubuntu-ui-toolkit-theme				install
-ubuntu-wallpapers				install
-ubuntu-wallpapers-trusty			install
-ubuntuone-client-data				install
-ucf						install
-udev						install
-udisks2						install
-ufw						install
-unattended-upgrades				install
-unity						install
-unity-asset-pool				install
-unity-control-center				install
-unity-control-center-signon			install
-unity-greeter					install
-unity-gtk-module-common				install
-unity-gtk2-module:i386				install
-unity-gtk3-module:i386				install
-unity-lens-applications				install
-unity-lens-files				install
-unity-lens-friends				install
-unity-lens-music				install
-unity-lens-photos				install
-unity-lens-video				install
-unity-scope-audacious				install
-unity-scope-calculator				install
-unity-scope-chromiumbookmarks			install
-unity-scope-clementine				install
-unity-scope-colourlovers			install
-unity-scope-devhelp				install
-unity-scope-firefoxbookmarks			install
-unity-scope-gdrive				install
-unity-scope-gmusicbrowser			install
-unity-scope-gourmet				install
-unity-scope-guayadeque				install
-unity-scope-home				install
-unity-scope-manpages				install
-unity-scope-musicstores				install
-unity-scope-musique				install
-unity-scope-openclipart				install
-unity-scope-texdoc				install
-unity-scope-tomboy				install
-unity-scope-video-remote			install
-unity-scope-virtualbox				install
-unity-scope-yelp				install
-unity-scope-zotero				install
-unity-scopes-master-default			install
-unity-scopes-runner				install
-unity-services					install
-unity-settings-daemon				install
-unity-voice-service:i386			install
-unity-webapps-common				install
-unity-webapps-qml				install
-unity-webapps-service				install
-uno-libs3					install
-unzip						install
-update-inetd					install
-update-manager					install
-update-manager-core				install
-update-notifier					install
-update-notifier-common				install
-upower						install
-upstart						install
-ure						install
-ureadahead					install
-usb-creator-common				install
-usb-creator-gtk					install
-usb-modeswitch					install
-usb-modeswitch-data				install
-usbmuxd						install
-usbutils					install
-util-linux					install
-uuid-dev					install
-uuid-runtime					install
-vbetool						install
-vim						install
-vim-common					install
-vim-gnome					install
-vim-gui-common					install
-vim-runtime					install
-vim-tiny					install
-vino						install
-virtualbox-guest-dkms				install
-virtualbox-guest-utils				install
-virtualbox-guest-x11				install
-wamerican					install
-wbritish					install
-webaccounts-extension-common			install
-webapp-container				install
-webbrowser-app					install
-wget						install
-whiptail					install
-whoopsie					install
-whoopsie-preferences				install
-wireless-regdb					install
-wireless-tools					install
-wodim						install
-wpasupplicant					install
-x11-apps					install
-x11-common					install
-x11-session-utils				install
-x11-utils					install
-x11-xfs-utils					install
-x11-xkb-utils					install
-x11-xserver-utils				install
-x11proto-composite-dev				install
-x11proto-core-dev				install
-x11proto-damage-dev				install
-x11proto-dri2-dev				install
-x11proto-fixes-dev				install
-x11proto-gl-dev					install
-x11proto-input-dev				install
-x11proto-kb-dev					install
-x11proto-randr-dev				install
-x11proto-render-dev				install
-x11proto-scrnsaver-dev				install
-x11proto-xext-dev				install
-x11proto-xf86vidmode-dev			install
-x11proto-xinerama-dev				install
-xauth						install
-xbitmaps					install
-xcursor-themes					install
-xdg-user-dirs					install
-xdg-user-dirs-gtk				install
-xdg-utils					install
-xdiagnose					install
-xfonts-base					install
-xfonts-encodings				install
-xfonts-mathml					install
-xfonts-scalable					install
-xfonts-utils					install
-xinit						install
-xinput						install
-xkb-data					install
-xml-core					install
-xorg						install
-xorg-docs-core					install
-xorg-sgml-doctools				install
-xserver-common					install
-xserver-xorg					install
-xserver-xorg-core				install
-xserver-xorg-input-all				install
-xserver-xorg-input-evdev			install
-xserver-xorg-input-mouse			install
-xserver-xorg-input-synaptics			install
-xserver-xorg-input-vmmouse			install
-xserver-xorg-input-wacom			install
-xserver-xorg-video-all				install
-xserver-xorg-video-ati				install
-xserver-xorg-video-cirrus			install
-xserver-xorg-video-fbdev			install
-xserver-xorg-video-glamoregl			install
-xserver-xorg-video-intel			install
-xserver-xorg-video-mach64			install
-xserver-xorg-video-mga				install
-xserver-xorg-video-modesetting			install
-xserver-xorg-video-neomagic			install
-xserver-xorg-video-nouveau			install
-xserver-xorg-video-openchrome			install
-xserver-xorg-video-qxl				install
-xserver-xorg-video-r128				install
-xserver-xorg-video-radeon			install
-xserver-xorg-video-s3				install
-xserver-xorg-video-savage			install
-xserver-xorg-video-siliconmotion		install
-xserver-xorg-video-sis				install
-xserver-xorg-video-sisusb			install
-xserver-xorg-video-tdfx				install
-xserver-xorg-video-trident			install
-xserver-xorg-video-vesa				install
-xserver-xorg-video-vmware			install
-xterm						install
-xtrans-dev					install
-xul-ext-ubufox					install
-xul-ext-unity					install
-xul-ext-webaccounts				install
-xul-ext-websites-integration			install
-xz-utils					install
-yelp						install
-yelp-xsl					install
-zeitgeist					install
-zeitgeist-core					install
-zeitgeist-datahub				install
-zenity						install
-zenity-common					install
-zip						install
-zlib1g:i386					install
-zlib1g-dev:i386					install
+account-plugin-aim				 
+account-plugin-facebook				 
+account-plugin-flickr				 
+account-plugin-google				 
+account-plugin-jabber				 
+account-plugin-salut				 
+account-plugin-twitter				 
+account-plugin-windows-live			 
+account-plugin-yahoo				 
+accountsservice					 
+acl						 
+acpi-support					 
+acpid						 
+activity-log-manager				 
+activity-log-manager-control-center		 
+adduser						 
+adium-theme-ubuntu				 
+aisleriot					 
+alsa-base					 
+alsa-utils					 
+anacron						 
+ant						 
+ant-optional					 
+apg						 
+app-install-data				 
+app-install-data-partner			 
+apparmor					 
+appmenu-qt					 
+appmenu-qt5					 
+apport						 
+apport-gtk					 
+apport-symptoms					 
+apt						 
+apt-transport-https				 
+apt-utils					 
+apt-xapian-index				 
+aptdaemon					 
+aptdaemon-data					 
+apturl						 
+apturl-common					 
+aspell						 
+aspell-en					 
+at-spi2-core					 
+autotools-dev					 
+avahi-autoipd					 
+avahi-daemon					 
+avahi-utils					 
+bamfdaemon					 
+baobab						 
+base-files					 
+base-passwd					 
+bash						 
+bash-completion					 
+bc						 
+bind9-host					 
+binfmt-support					 
+binutils					 
+bluez						 
+bluez-alsa:i386					 
+bluez-cups					 
+branding-ubuntu					 
+brasero						 
+brasero-cdrkit					 
+brasero-common					 
+brltty						 
+bsdmainutils					 
+bsdutils					 
+build-essential					 
+busybox-initramfs				 
+busybox-static					 
+bzip2						 
+bzr						 
+ca-certificates					 
+ca-certificates-java				 
+checkbox-gui					 
+checkbox-ng					 
+checkbox-ng-service				 
+cheese						 
+cheese-common					 
+chromium-codecs-ffmpeg-extra			 
+cmake						 
+cmake-data					 
+collada-dom-dev					 
+collada-dom2.4-dp-base				 
+collada-dom2.4-dp-dev				 
+colord						 
+comerr-dev					 
+command-not-found				 
+command-not-found-data				 
+compiz						 
+compiz-core					 
+compiz-gnome					 
+compiz-plugins-default				 
+console-setup					 
+coreutils					 
+cpio						 
+cpp						 
+cpp-4.8						 
+cracklib-runtime				 
+crda						 
+cron						 
+cups						 
+cups-browsed					 
+cups-bsd					 
+cups-client					 
+cups-common					 
+cups-core-drivers				 
+cups-daemon					 
+cups-filters					 
+cups-filters-core-drivers			 
+cups-pk-helper					 
+cups-ppdc					 
+cups-server-common				 
+dash						 
+dbus						 
+dbus-x11					 
+dc						 
+dconf-cli					 
+dconf-gsettings-backend:i386			 
+dconf-service					 
+debconf						 
+debconf-i18n					 
+debhelper					 
+debianutils					 
+default-jdk					 
+default-jre					 
+default-jre-headless				 
+deja-dup					 
+deja-dup-backend-gvfs				 
+desktop-file-utils				 
+dh-apparmor					 
+dh-python					 
+dialog						 
+dictionaries-common				 
+diffstat					 
+diffutils					 
+dkms						 
+dmidecode					 
+dmsetup						 
+dmz-cursor-theme				 
+dnsmasq-base					 
+dnsutils					 
+doc-base					 
+docutils-common					 
+docutils-doc					 
+dosfstools					 
+dpkg						 
+dpkg-dev					 
+duplicity					 
+dvd+rw-tools					 
+e2fslibs:i386					 
+e2fsprogs					 
+ed						 
+eject						 
+empathy						 
+empathy-common					 
+enchant						 
+eog						 
+espeak-data:i386				 
+ethtool						 
+evince						 
+evince-common					 
+evolution-data-server				 
+evolution-data-server-common			 
+evolution-data-server-online-accounts		 
+example-content					 
+fakeroot					 
+file						 
+file-roller					 
+findutils					 
+firefox						 
+firefox-locale-en				 
+flashplugin-installer				 
+fltk1.3-doc					 
+fluid						 
+folks-common					 
+fontconfig					 
+fontconfig-config				 
+fonts-dejavu-core				 
+fonts-dejavu-extra				 
+fonts-droid					 
+fonts-freefont-ttf				 
+fonts-kacst					 
+fonts-kacst-one					 
+fonts-khmeros-core				 
+fonts-lao					 
+fonts-liberation				 
+fonts-lklug-sinhala				 
+fonts-lyx					 
+fonts-nanum					 
+fonts-opensymbol				 
+fonts-sil-abyssinica				 
+fonts-sil-padauk				 
+fonts-takao-pgothic				 
+fonts-thai-tlwg					 
+fonts-tibetan-machine				 
+fonts-tlwg-garuda				 
+fonts-tlwg-kinnari				 
+fonts-tlwg-loma					 
+fonts-tlwg-mono					 
+fonts-tlwg-norasi				 
+fonts-tlwg-purisa				 
+fonts-tlwg-sawasdee				 
+fonts-tlwg-typewriter				 
+fonts-tlwg-typist				 
+fonts-tlwg-typo					 
+fonts-tlwg-umpush				 
+fonts-tlwg-waree				 
+foomatic-db-compressed-ppds			 
+freeglut3:i386					 
+freepats					 
+friendly-recovery				 
+friends						 
+friends-dispatcher				 
+friends-facebook				 
+friends-twitter					 
+ftp						 
+fuse						 
+g++						 
+g++-4.8						 
+gazebo2						 
+gcc						 
+gcc-4.8						 
+gcc-4.8-base:i386				 
+gcc-4.9-base:i386				 
+gconf-service					 
+gconf-service-backend				 
+gconf2						 
+gconf2-common					 
+gcr						 
+gdb						 
+gdisk						 
+gedit						 
+gedit-common					 
+genisoimage					 
+geoclue						 
+geoclue-ubuntu-geoip				 
+geoip-database					 
+gettext						 
+gettext-base					 
+ghostscript					 
+ghostscript-x					 
+gir1.2-accounts-1.0				 
+gir1.2-appindicator3-0.1			 
+gir1.2-atk-1.0					 
+gir1.2-atspi-2.0				 
+gir1.2-dbusmenu-glib-0.4			 
+gir1.2-dee-1.0					 
+gir1.2-ebook-1.2				 
+gir1.2-ebookcontacts-1.2			 
+gir1.2-edataserver-1.2				 
+gir1.2-freedesktop				 
+gir1.2-gdata-0.0				 
+gir1.2-gdkpixbuf-2.0				 
+gir1.2-glib-2.0					 
+gir1.2-gmenu-3.0				 
+gir1.2-gnomebluetooth-1.0			 
+gir1.2-gnomekeyring-1.0				 
+gir1.2-goa-1.0					 
+gir1.2-gst-plugins-base-1.0			 
+gir1.2-gstreamer-1.0				 
+gir1.2-gtk-2.0					 
+gir1.2-gtk-3.0					 
+gir1.2-gtksource-3.0				 
+gir1.2-gudev-1.0				 
+gir1.2-ibus-1.0					 
+gir1.2-javascriptcoregtk-3.0			 
+gir1.2-messagingmenu-1.0			 
+gir1.2-networkmanager-1.0			 
+gir1.2-notify-0.7				 
+gir1.2-packagekitglib-1.0			 
+gir1.2-pango-1.0				 
+gir1.2-peas-1.0					 
+gir1.2-rb-3.0					 
+gir1.2-secret-1					 
+gir1.2-signon-1.0				 
+gir1.2-soup-2.4					 
+gir1.2-totem-1.0				 
+gir1.2-totem-plparser-1.0			 
+gir1.2-udisks-2.0				 
+gir1.2-unity-5.0:i386				 
+gir1.2-vte-2.90					 
+gir1.2-webkit-3.0				 
+gir1.2-wnck-3.0					 
+git						 
+git-core					 
+git-man						 
+gkbd-capplet					 
+glib-networking:i386				 
+glib-networking-common				 
+glib-networking-services			 
+gnome-accessibility-themes			 
+gnome-bluetooth					 
+gnome-calculator				 
+gnome-contacts					 
+gnome-control-center-shared-data		 
+gnome-desktop3-data				 
+gnome-disk-utility				 
+gnome-font-viewer				 
+gnome-icon-theme				 
+gnome-icon-theme-symbolic			 
+gnome-keyring					 
+gnome-mahjongg					 
+gnome-menus					 
+gnome-mines					 
+gnome-orca					 
+gnome-power-manager				 
+gnome-screensaver				 
+gnome-screenshot				 
+gnome-session-bin				 
+gnome-session-canberra				 
+gnome-session-common				 
+gnome-settings-daemon-schemas			 
+gnome-sudoku					 
+gnome-system-log				 
+gnome-system-monitor				 
+gnome-terminal					 
+gnome-terminal-data				 
+gnome-user-guide				 
+gnome-user-share				 
+gnome-video-effects				 
+gnomine						 
+gnupg						 
+gpgv						 
+graphviz					 
+grep						 
+groff-base					 
+growisofs					 
+grub-common					 
+grub-gfxpayload-lists				 
+grub-pc						 
+grub-pc-bin					 
+grub2-common					 
+gsettings-desktop-schemas			 
+gsettings-ubuntu-schemas			 
+gsfonts						 
+gstreamer0.10-alsa:i386				 
+gstreamer0.10-fluendo-mp3:i386			 
+gstreamer0.10-nice:i386				 
+gstreamer0.10-plugins-bad:i386			 
+gstreamer0.10-plugins-base:i386			 
+gstreamer0.10-plugins-base-apps			 
+gstreamer0.10-plugins-good:i386			 
+gstreamer0.10-plugins-ugly:i386			 
+gstreamer0.10-pulseaudio:i386			 
+gstreamer0.10-tools				 
+gstreamer0.10-x:i386				 
+gstreamer1.0-alsa:i386				 
+gstreamer1.0-clutter				 
+gstreamer1.0-fluendo-mp3:i386			 
+gstreamer1.0-libav:i386				 
+gstreamer1.0-nice:i386				 
+gstreamer1.0-plugins-bad:i386			 
+gstreamer1.0-plugins-bad-faad:i386		 
+gstreamer1.0-plugins-bad-videoparsers:i386	 
+gstreamer1.0-plugins-base:i386			 
+gstreamer1.0-plugins-base-apps			 
+gstreamer1.0-plugins-good:i386			 
+gstreamer1.0-plugins-ugly:i386			 
+gstreamer1.0-pulseaudio:i386			 
+gstreamer1.0-tools				 
+gstreamer1.0-x:i386				 
+gtk2-engines-murrine:i386			 
+gtk3-engines-unico:i386				 
+gucharmap					 
+guile-2.0-libs					 
+gvfs:i386					 
+gvfs-backends					 
+gvfs-bin					 
+gvfs-common					 
+gvfs-daemons					 
+gvfs-fuse					 
+gvfs-libs:i386					 
+gzip						 
+hardening-includes				 
+hddtemp						 
+hdparm						 
+hicolor-icon-theme				 
+hostname					 
+hplip						 
+hplip-data					 
+hud						 
+humanity-icon-theme				 
+hunspell-en-us					 
+hwdata						 
+hyphen-en-us					 
+ibus						 
+ibus-gtk:i386					 
+ibus-gtk3:i386					 
+ibus-pinyin					 
+ibus-table					 
+icu-devtools					 
+ifupdown					 
+im-config					 
+indicator-application				 
+indicator-appmenu				 
+indicator-bluetooth				 
+indicator-datetime				 
+indicator-keyboard				 
+indicator-messages				 
+indicator-power					 
+indicator-printers				 
+indicator-session				 
+indicator-sound					 
+info						 
+init-system-helpers				 
+initramfs-tools					 
+initramfs-tools-bin				 
+initscripts					 
+inputattach					 
+insserv						 
+install-info					 
+intel-gpu-tools					 
+intltool-debian					 
+iproute						 
+iproute2					 
+iptables					 
+iputils-arping					 
+iputils-ping					 
+iputils-tracepath				 
+irqbalance					 
+isc-dhcp-client					 
+isc-dhcp-common					 
+iso-codes					 
+iw						 
+java-common					 
+kbd						 
+kerneloops-daemon				 
+keyboard-configuration				 
+klibc-utils					 
+kmod						 
+krb5-locales					 
+krb5-multidev					 
+landscape-client-ui-install			 
+language-pack-en
+language-pack-en-base				
+language-pack-gnome-en				
+language-pack-gnome-en-base			
+language-selector-common			
+language-selector-gnome				
+laptop-detect					
+less						
+liba52-0.7.4					
+libaa1:i386					
+libaccount-plugin-1.0-0				
+libaccount-plugin-generic-oauth			
+libaccount-plugin-google			
+libaccounts-glib0:i386				
+libaccounts-qt5-1				
+libaccountsservice0:i386			
+libacl1:i386					
+libalgorithm-diff-perl				
+libalgorithm-diff-xs-perl			
+libalgorithm-merge-perl				
+liballegro4.4:i386				
+liballegro4.4-plugin-alsa:i386			
+libapparmor-perl				
+libapparmor1:i386				
+libappindicator3-1				
+libapr1:i386					
+libapr1-dev					
+libaprutil1:i386				
+libaprutil1-dev					
+libapt-inst1.5:i386				
+libapt-pkg-perl					
+libapt-pkg4.12:i386				
+libarchive-extract-perl				
+libarchive-zip-perl				
+libarchive13:i386				
+libart-2.0-2:i386				
+libasan0:i386					
+libasn1-8-heimdal:i386				
+libasound2:i386					
+libasound2-data					
+libasound2-plugins:i386				
+libaspell15					
+libasprintf-dev:i386				
+libasprintf0c2:i386				
+libass4:i386					
+libassimp-dev					
+libassimp3					
+libassuan0:i386					
+libasyncns0:i386				
+libatasmart4:i386				
+libatk-adaptor:i386				
+libatk-bridge2.0-0:i386				
+libatk-wrapper-java				
+libatk-wrapper-java-jni:i386			
+libatk1.0-0:i386				
+libatk1.0-data					
+libatk1.0-dev					
+libatkmm-1.6-1:i386				
+libatomic1:i386					
+libatspi2.0-0:i386				
+libattr1:i386					
+libaudio2:i386					
+libaudit-common					
+libaudit1:i386					
+libauthen-sasl-perl				
+libautodie-perl					
+libavahi-client3:i386				
+libavahi-common-data:i386			
+libavahi-common3:i386				
+libavahi-core7:i386				
+libavahi-glib1:i386				
+libavahi-gobject0:i386				
+libavc1394-0:i386				
+libavcodec-dev					
+libavcodec54:i386				
+libavformat-dev					
+libavformat54:i386				
+libavutil-dev					
+libavutil52:i386				
+libbamf3-2:i386					
+libbind9-90					
+libblas3					
+libblkid1:i386					
+libbluetooth3:i386				
+libbonobo2-0:i386				
+libbonobo2-common				
+libbonoboui2-0:i386				
+libbonoboui2-common				
+libboost-all-dev				
+libboost-atomic-dev:i386			
+libboost-atomic1.54-dev:i386			
+libboost-atomic1.54.0:i386			
+libboost-chrono-dev:i386			
+libboost-chrono1.54-dev:i386			
+libboost-chrono1.54.0:i386			
+libboost-context-dev:i386			
+libboost-context1.54-dev:i386			
+libboost-context1.54.0:i386			
+libboost-coroutine-dev				
+libboost-coroutine1.54-dev			
+libboost-date-time-dev:i386			
+libboost-date-time1.54-dev:i386			
+libboost-date-time1.54.0:i386			
+libboost-dev					
+libboost-exception-dev:i386			
+libboost-exception1.54-dev:i386			
+libboost-filesystem-dev:i386			
+libboost-filesystem1.54-dev:i386		
+libboost-filesystem1.54.0:i386			
+libboost-graph-dev:i386				
+libboost-graph-parallel-dev			
+libboost-graph-parallel1.54-dev			
+libboost-graph-parallel1.54.0			
+libboost-graph1.54-dev:i386			
+libboost-graph1.54.0:i386			
+libboost-iostreams-dev:i386			
+libboost-iostreams1.54-dev:i386			
+libboost-iostreams1.54.0:i386			
+libboost-locale-dev:i386			
+libboost-locale1.54-dev:i386			
+libboost-locale1.54.0:i386			
+libboost-log-dev				
+libboost-log1.54-dev				
+libboost-log1.54.0				
+libboost-math-dev:i386				
+libboost-math1.54-dev:i386			
+libboost-math1.54.0:i386			
+libboost-mpi-dev				
+libboost-mpi-python-dev				
+libboost-mpi-python1.54-dev			
+libboost-mpi-python1.54.0			
+libboost-mpi1.54-dev				
+libboost-mpi1.54.0				
+libboost-program-options-dev:i386		
+libboost-program-options1.54-dev:i386		
+libboost-program-options1.54.0:i386		
+libboost-python-dev				
+libboost-python1.54-dev:i386			
+libboost-python1.54.0:i386			
+libboost-random-dev:i386			
+libboost-random1.54-dev:i386			
+libboost-random1.54.0:i386			
+libboost-regex-dev:i386				
+libboost-regex1.54-dev:i386			
+libboost-regex1.54.0:i386			
+libboost-serialization-dev:i386			
+libboost-serialization1.54-dev:i386		
+libboost-serialization1.54.0:i386		
+libboost-signals-dev:i386			
+libboost-signals1.54-dev:i386			
+libboost-signals1.54.0:i386			
+libboost-system-dev:i386			
+libboost-system1.54-dev:i386			
+libboost-system1.54.0:i386			
+libboost-test-dev:i386				
+libboost-test1.54-dev:i386			
+libboost-test1.54.0:i386			
+libboost-thread-dev:i386			
+libboost-thread1.54-dev:i386			
+libboost-thread1.54.0:i386			
+libboost-timer-dev:i386				
+libboost-timer1.54-dev:i386			
+libboost-timer1.54.0:i386			
+libboost-tools-dev				
+libboost-wave-dev:i386				
+libboost-wave1.54-dev:i386			
+libboost-wave1.54.0:i386			
+libboost1.54-dev				
+libboost1.54-tools-dev				
+libbrasero-media3-1				
+libbrlapi0.6:i386				
+libbsd0:i386					
+libburn4					
+libbz2-1.0:i386					
+libbz2-dev:i386					
+libc-bin					
+libc-dev-bin					
+libc6:i386					
+libc6-dbg:i386					
+libc6-dev:i386					
+libcaca0:i386					
+libcairo-gobject2:i386				
+libcairo-script-interpreter2:i386		
+libcairo2:i386					
+libcairo2-dev					
+libcairomm-1.0-1:i386				
+libcamel-1.2-45					
+libcanberra-gtk-module:i386			
+libcanberra-gtk0:i386				
+libcanberra-gtk3-0:i386				
+libcanberra-gtk3-module:i386			
+libcanberra-pulse:i386				
+libcanberra0:i386				
+libcap-ng0					
+libcap2:i386					
+libcap2-bin					
+libcdaudio1					
+libcdio-cdda1					
+libcdio-paranoia1				
+libcdio13					
+libcdparanoia0:i386				
+libcdr-0.0-0					
+libcdt5						
+libcegui-mk2-0.7.6				
+libcegui-mk2-dev				
+libcf0						
+libcgmanager0:i386				
+libcgraph6					
+libcheese-gtk23:i386				
+libcheese7:i386					
+libchromaprint0:i386				
+libclass-accessor-perl				
+libclone-perl					
+libcloog-isl4:i386				
+libclucene-contribs1:i386			
+libclucene-core1:i386				
+libclutter-1.0-0:i386				
+libclutter-1.0-common				
+libclutter-gst-2.0-0:i386			
+libclutter-gtk-1.0-0:i386			
+libcmis-0.4-4					
+libcogl-common					
+libcogl-pango15:i386				
+libcogl15:i386					
+libcolamd2.8.0:i386				
+libcolord1:i386					
+libcolorhug1:i386				
+libcolumbus1:i386				
+libcolumbus1-common				
+libcomerr2:i386					
+libcompizconfig0				
+libconsole-bridge-dev:i386			
+libconsole-bridge0.2:i386			
+libcr0						
+libcrack2:i386					
+libcroco3:i386					
+libcrypt-passwdmd5-perl				
+libcups2:i386					
+libcupscgi1:i386				
+libcupsfilters1:i386				
+libcupsimage2:i386				
+libcupsmime1:i386				
+libcupsppdc1:i386				
+libcurl3:i386					
+libcurl3-gnutls:i386				
+libcurl4-openssl-dev:i386			
+libcv-dev:i386					
+libcvaux-dev:i386				
+libdaemon0					
+libdatrie1:i386					
+libdb5.3:i386					
+libdbus-1-3:i386				
+libdbus-glib-1-2:i386				
+libdbusmenu-glib4:i386				
+libdbusmenu-gtk3-4:i386				
+libdbusmenu-gtk4:i386				
+libdbusmenu-qt2:i386				
+libdbusmenu-qt5:i386				
+libdc1394-22:i386				
+libdc1394-22-dev:i386				
+libdca0:i386					
+libdconf1:i386					
+libdebconfclient0:i386				
+libdebian-installer4:i386			
+libdecoration0					
+libdee-1.0-4:i386				
+libdevil-dev					
+libdevil1c2					
+libdevmapper-event1.02.1:i386			
+libdevmapper1.02.1:i386				
+libdigest-hmac-perl				
+libdirac-encoder0:i386				
+libdirectfb-1.2-9:i386				
+libdjvulibre-text				
+libdjvulibre21:i386				
+libdmapsharing-3.0-2				
+libdns100					
+libdotconf0:i386				
+libdpkg-perl					
+libdrm-dev:i386					
+libdrm-intel1:i386				
+libdrm-nouveau2:i386				
+libdrm-radeon1:i386				
+libdrm2:i386					
+libdv4:i386					
+libdvdnav4:i386					
+libdvdread4:i386				
+libebackend-1.2-7				
+libebook-1.2-14					
+libebook-contacts-1.2-0				
+libecal-1.2-16					
+libedata-book-1.2-20				
+libedata-cal-1.2-23				
+libedataserver-1.2-18				
+libedit2:i386					
+libegl1-mesa:i386				
+libegl1-mesa-drivers:i386			
+libeigen3-dev					
+libelf1:i386					
+libelfg0:i386					
+libemail-valid-perl				
+libenca0:i386					
+libenchant1c2a:i386				
+liberror-perl					
+libespeak1:i386					
+libestr0					
+libevdocument3-4				
+libevent-2.0-5:i386				
+libevview3-3					
+libexempi3:i386					
+libexif12:i386					
+libexiv2-12					
+libexpat1:i386					
+libexpat1-dev:i386				
+libexttextcat-2.0-0				
+libexttextcat-data				
+libfaad2:i386					
+libfakeroot:i386				
+libfarstream-0.1-0:i386				
+libfarstream-0.2-2:i386				
+libffi6:i386					
+libfftw3-double3:i386				
+libfftw3-single3:i386				
+libfile-basedir-perl				
+libfile-copy-recursive-perl			
+libfile-desktopentry-perl			
+libfile-fcntllock-perl				
+libfile-mimeinfo-perl				
+libflac8:i386					
+libflann-dev					
+libflann1.8:i386				
+libflite1:i386					
+libfltk-forms1.3:i386				
+libfltk-images1.3:i386				
+libfltk1.1:i386					
+libfltk1.1-dev					
+libfltk1.3:i386					
+libfluidsynth1:i386				
+libfolks-eds25:i386				
+libfolks-telepathy25:i386			
+libfolks25:i386					
+libfontconfig1:i386				
+libfontconfig1-dev				
+libfontembed1:i386				
+libfontenc1:i386				
+libframe6:i386					
+libfreeimage-dev				
+libfreeimage3					
+libfreerdp-plugins-standard:i386		
+libfreerdp1:i386				
+libfreetype6:i386				
+libfreetype6-dev				
+libfribidi0:i386				
+libfriends0:i386				
+libfs6:i386					
+libfuse2:i386					
+libgail-3-0:i386				
+libgail-common:i386				
+libgail18:i386					
+libgbm1:i386					
+libgc1c2:i386					
+libgcc-4.8-dev:i386				
+libgcc1:i386					
+libgck-1-0:i386					
+libgconf-2-4:i386				
+libgconf2-4:i386				
+libgcr-3-common					
+libgcr-base-3-1:i386				
+libgcr-ui-3-1:i386				
+libgcrypt11:i386				
+libgcrypt11-dev					
+libgd3:i386					
+libgdata-common					
+libgdata13					
+libgdbm3:i386					
+libgdk-pixbuf2.0-0:i386				
+libgdk-pixbuf2.0-common				
+libgdk-pixbuf2.0-dev				
+libgee-0.8-2:i386				
+libgee2:i386					
+libgeis1:i386					
+libgeoclue0:i386				
+libgeoip1:i386					
+libgeos-3.4.2					
+libgeos-c1					
+libgettextpo-dev:i386				
+libgettextpo0:i386				
+libgexiv2-2:i386				
+libgfortran3:i386				
+libgif4:i386					
+libgirepository-1.0-1				
+libgl1-mesa-dev					
+libgl1-mesa-dri:i386				
+libgl1-mesa-glx:i386				
+libgl2ps-dev					
+libgl2ps0					
+libglade2-0:i386				
+libglamor0:i386					
+libglapi-mesa:i386				
+libgles2-mesa:i386				
+libglew1.10:i386				
+libglewmx1.10:i386				
+libglib2.0-0:i386				
+libglib2.0-bin					
+libglib2.0-data					
+libglib2.0-dev					
+libglibmm-2.4-1c2a:i386				
+libglu1-mesa:i386				
+libglu1-mesa-dev				
+libgme0						
+libgmime-2.6-0:i386				
+libgmp10:i386					
+libgnome-bluetooth11				
+libgnome-control-center1			
+libgnome-desktop-3-7				
+libgnome-keyring-common				
+libgnome-keyring0:i386				
+libgnome-menu-3-0				
+libgnome2-0:i386				
+libgnome2-bin					
+libgnome2-common				
+libgnomecanvas2-0:i386				
+libgnomecanvas2-common				
+libgnomekbd-common				
+libgnomekbd8					
+libgnomeui-0:i386				
+libgnomeui-common				
+libgnomevfs2-0:i386				
+libgnomevfs2-common				
+libgnutls-dev					
+libgnutls-openssl27:i386			
+libgnutls26:i386				
+libgnutlsxx27:i386				
+libgoa-1.0-0b:i386				
+libgoa-1.0-common				
+libgomp1:i386					
+libgpg-error-dev				
+libgpg-error0:i386				
+libgpgme11:i386					
+libgphoto2-6:i386				
+libgphoto2-l10n					
+libgphoto2-port10:i386				
+libgpm2:i386					
+libgpod-common					
+libgpod4:i386					
+libgrail6					
+libgraphite2-3:i386				
+libgrip0					
+libgs9						
+libgs9-common					
+libgsettings-qt1:i386				
+libgsl0ldbl					
+libgsm1:i386					
+libgssapi-krb5-2:i386				
+libgssapi3-heimdal:i386				
+libgssdp-1.0-3					
+libgssrpc4:i386					
+libgstreamer-plugins-bad0.10-0:i386		
+libgstreamer-plugins-bad1.0-0:i386		
+libgstreamer-plugins-base0.10-0:i386		
+libgstreamer-plugins-base1.0-0:i386		
+libgstreamer-plugins-good1.0-0:i386		
+libgstreamer0.10-0:i386				
+libgstreamer1.0-0:i386				
+libgtest-dev					
+libgtk-3-0:i386					
+libgtk-3-bin					
+libgtk-3-common					
+libgtk2.0-0:i386				
+libgtk2.0-bin					
+libgtk2.0-common				
+libgtk2.0-dev					
+libgtkglext1					
+libgtkmm-2.4-1c2a:i386				
+libgtkmm-3.0-1:i386				
+libgtksourceview-3.0-1:i386			
+libgtksourceview-3.0-common			
+libgtop2-7					
+libgtop2-common					
+libgucharmap-2-90-7				
+libgudev-1.0-0:i386				
+libgupnp-1.0-4					
+libgupnp-igd-1.0-4:i386				
+libgusb2:i386					
+libgutenprint2					
+libgvc6						
+libgvpr2					
+libgweather-3-6					
+libgweather-common				
+libgxps2:i386					
+libharfbuzz-dev					
+libharfbuzz-gobject0:i386			
+libharfbuzz-icu0:i386				
+libharfbuzz0b:i386				
+libhcrypto4-heimdal:i386			
+libhdf5-7:i386					
+libheimbase1-heimdal:i386			
+libheimntlm0-heimdal:i386			
+libhighgui-dev:i386				
+libhpmud0					
+libhud2:i386					
+libhunspell-1.3-0:i386				
+libhwloc-dev:i386				
+libhwloc-plugins				
+libhwloc5:i386					
+libhx509-5-heimdal:i386				
+libhyphen0					
+libibus-1.0-5:i386				
+libibverbs-dev					
+libibverbs1					
+libical1					
+libice-dev:i386					
+libice6:i386					
+libicu-dev:i386					
+libicu52:i386					
+libidl-common					
+libidl0:i386					
+libidn11:i386					
+libidn11-dev					
+libido3-0.1-0:i386				
+libiec61883-0:i386				
+libieee1284-3:i386				
+libijs-0.35					
+libilmbase-dev					
+libilmbase6:i386				
+libimobiledevice4:i386				
+libindicator3-7					
+libio-pty-perl					
+libio-socket-inet6-perl				
+libio-socket-ssl-perl				
+libio-string-perl				
+libipc-run-perl					
+libipc-system-simple-perl			
+libisc95					
+libisccc90					
+libisccfg90					
+libisl10:i386					
+libisofs6					
+libitm1:i386					
+libiw30:i386					
+libjack-jackd2-0:i386				
+libjasper-dev					
+libjasper1:i386					
+libjavascriptcoregtk-3.0-0:i386			
+libjbig-dev:i386				
+libjbig0:i386					
+libjbig2dec0					
+libjpeg-dev:i386				
+libjpeg-turbo8:i386				
+libjpeg-turbo8-dev:i386				
+libjpeg8:i386					
+libjpeg8-dev:i386				
+libjs-jquery					
+libjson-c2:i386					
+libjson-glib-1.0-0:i386				
+libjson-glib-1.0-common				
+libjson0:i386					
+libjte1						
+libk5crypto3:i386				
+libkadm5clnt-mit9:i386				
+libkadm5srv-mit9:i386				
+libkate1					
+libkdb5-7:i386					
+libkeyutils1:i386				
+libklibc					
+libkmod2:i386					
+libkpathsea6					
+libkrb5-26-heimdal:i386				
+libkrb5-3:i386					
+libkrb5-dev					
+libkrb5support0:i386				
+liblangtag-common				
+liblangtag1					
+liblapack3					
+liblcms1:i386					
+liblcms1-dev:i386				
+liblcms2-2:i386					
+liblcms2-dev:i386				
+libldap-2.4-2:i386				
+libldap2-dev:i386				
+libldb1:i386					
+liblightdm-gobject-1-0				
+liblircclient0					
+liblist-moreutils-perl				
+libllvm3.4:i386					
+liblocale-gettext-perl				
+liblockfile-bin					
+liblockfile1:i386				
+liblodo3.0					
+liblog-message-simple-perl			
+liblog4cxx10					
+liblog4cxx10-dev				
+liblouis-data					
+liblouis2:i386					
+libltdl-dev:i386				
+libltdl7:i386					
+liblua5.1-0:i386				
+liblua5.1-0-dev:i386				
+liblua5.2-0:i386				
+liblwres90					
+liblz4-1:i386					
+liblz4-dev:i386					
+liblzma-dev:i386				
+liblzma5:i386					
+liblzo2-2:i386					
+libmad0:i386					
+libmagic1:i386					
+libmail-sendmail-perl				
+libmailtools-perl				
+libmbim-glib0:i386				
+libmeanwhile1					
+libmessaging-menu0				
+libmetacity-private0a				
+libmhash2:i386					
+libmimic0					
+libminiupnpc8					
+libmission-control-plugins0			
+libmm-glib0:i386				
+libmms0:i386					
+libmng-dev:i386					
+libmng2:i386					
+libmnl0:i386					
+libmodplug1					
+libmodule-pluggable-perl			
+libmount1:i386					
+libmp3lame0:i386				
+libmpc3:i386					
+libmpcdec6					
+libmpdec2:i386					
+libmpeg2-4:i386					
+libmpfr4:i386					
+libmpg123-0:i386				
+libmspub-0.0-0					
+libmtdev1:i386					
+libmtp-common					
+libmtp-runtime					
+libmtp9:i386					
+libmysqlclient-dev				
+libmysqlclient18:i386				
+libmythes-1.2-0					
+libnatpmp1					
+libnautilus-extension1a				
+libncurses5:i386				
+libncursesw5:i386				
+libneon27-gnutls				
+libnet-dns-perl					
+libnet-domain-tld-perl				
+libnet-ip-perl					
+libnet-libidn-perl				
+libnet-smtp-ssl-perl				
+libnet-ssleay-perl				
+libnetcdf-dev					
+libnetcdfc++4					
+libnetcdfc7					
+libnetcdff5					
+libnetfilter-conntrack3:i386			
+libnettle4:i386					
+libnewt0.52:i386				
+libnfnetlink0:i386				
+libnice10:i386					
+libnih-dbus1:i386				
+libnih1:i386					
+libnl-3-200:i386				
+libnl-genl-3-200:i386				
+libnl-route-3-200:i386				
+libnm-glib-vpn1					
+libnm-glib4					
+libnm-gtk-common				
+libnm-gtk0					
+libnm-util2					
+libnotify-bin					
+libnotify4:i386					
+libnspr4:i386					
+libnss-mdns:i386				
+libnss3:i386					
+libnss3-1d:i386					
+libnss3-nssdb					
+libntdb1:i386					
+libnuma1:i386					
+libnux-4.0-0					
+libnux-4.0-common				
+liboauth0:i386					
+libodbc1:i386					
+libofa0						
+libogg-dev:i386					
+libogg0:i386					
+libogre-1.8-dev					
+libogre-1.8.0:i386				
+liboil0.3:i386					
+libois-1.3.0:i386				
+libopenal-data					
+libopenal1:i386					
+libopencc1:i386					
+libopencore-amrnb0:i386				
+libopencore-amrwb0:i386				
+libopencv-calib3d-dev:i386			
+libopencv-calib3d2.4:i386			
+libopencv-contrib-dev:i386			
+libopencv-contrib2.4:i386			
+libopencv-core-dev:i386				
+libopencv-core2.4:i386				
+libopencv-dev					
+libopencv-features2d-dev:i386			
+libopencv-features2d2.4:i386			
+libopencv-flann-dev:i386			
+libopencv-flann2.4:i386				
+libopencv-gpu-dev:i386				
+libopencv-gpu2.4:i386				
+libopencv-highgui-dev:i386			
+libopencv-highgui2.4:i386			
+libopencv-imgproc-dev:i386			
+libopencv-imgproc2.4:i386			
+libopencv-legacy-dev:i386			
+libopencv-legacy2.4:i386			
+libopencv-ml-dev:i386				
+libopencv-ml2.4:i386				
+libopencv-objdetect-dev:i386			
+libopencv-objdetect2.4:i386			
+libopencv-ocl-dev:i386				
+libopencv-ocl2.4:i386				
+libopencv-photo-dev:i386			
+libopencv-photo2.4:i386				
+libopencv-stitching-dev:i386			
+libopencv-stitching2.4:i386			
+libopencv-superres-dev:i386			
+libopencv-superres2.4:i386			
+libopencv-ts-dev:i386				
+libopencv-ts2.4:i386				
+libopencv-video-dev:i386			
+libopencv-video2.4:i386				
+libopencv-videostab-dev:i386			
+libopencv-videostab2.4:i386			
+libopencv2.4-java				
+libopencv2.4-jni				
+libopenexr-dev					
+libopenexr6:i386				
+libopenjpeg2:i386				
+libopenmpi-dev					
+libopenmpi1.6					
+libopenni-dev					
+libopenni-sensor-pointclouds0			
+libopenni0					
+libopenobex1					
+libopenvg1-mesa:i386				
+libopus0					
+liborbit-2-0:i386				
+liborbit2:i386					
+liborc-0.4-0:i386				
+liborcus-0.6-0					
+liboxideqt-qmlplugin:i386			
+liboxideqtcore0:i386				
+libp11-kit-dev					
+libp11-kit-gnome-keyring:i386			
+libp11-kit0:i386				
+libpackagekit-glib2-16:i386			
+libpam-cap:i386					
+libpam-gnome-keyring:i386			
+libpam-modules:i386				
+libpam-modules-bin				
+libpam-runtime					
+libpam-systemd:i386				
+libpam0g:i386					
+libpango-1.0-0:i386				
+libpango1.0-0:i386				
+libpango1.0-dev					
+libpangocairo-1.0-0:i386			
+libpangoft2-1.0-0:i386				
+libpangomm-1.4-1:i386				
+libpangox-1.0-0:i386				
+libpangoxft-1.0-0:i386				
+libpaper-utils					
+libpaper1:i386					
+libparse-debianchangelog-perl			
+libparted0debian1:i386				
+libpathplan4					
+libpcap0.8:i386					
+libpci-dev					
+libpci3:i386					
+libpciaccess0:i386				
+libpcl-1.7-all					
+libpcl-1.7-all-dev				
+libpcl-1.7-bin					
+libpcl-1.7-doc					
+libpcl-apps-1.7					
+libpcl-apps-1.7-dev				
+libpcl-common-1.7				
+libpcl-common-1.7-dev				
+libpcl-features-1.7				
+libpcl-features-1.7-dev				
+libpcl-filters-1.7				
+libpcl-filters-1.7-dev				
+libpcl-geometry-1.7-dev				
+libpcl-io-1.7					
+libpcl-io-1.7-dev				
+libpcl-kdtree-1.7				
+libpcl-kdtree-1.7-dev				
+libpcl-keypoints-1.7				
+libpcl-keypoints-1.7-dev			
+libpcl-octree-1.7				
+libpcl-octree-1.7-dev				
+libpcl-outofcore-1.7				
+libpcl-outofcore-1.7-dev			
+libpcl-people-1.7				
+libpcl-people-1.7-dev				
+libpcl-recognition-1.7				
+libpcl-recognition-1.7-dev			
+libpcl-registration-1.7				
+libpcl-registration-1.7-dev			
+libpcl-sample-consensus-1.7			
+libpcl-sample-consensus-1.7-dev			
+libpcl-search-1.7				
+libpcl-search-1.7-dev				
+libpcl-segmentation-1.7				
+libpcl-segmentation-1.7-dev			
+libpcl-surface-1.7				
+libpcl-surface-1.7-dev				
+libpcl-tracking-1.7				
+libpcl-tracking-1.7-dev				
+libpcl-visualization-1.7			
+libpcl-visualization-1.7-dev			
+libpcre3:i386					
+libpcre3-dev:i386				
+libpcrecpp0:i386				
+libpcsclite1:i386				
+libpeas-1.0-0					
+libpeas-common					
+libperl5.18					
+libperlio-gzip-perl				
+libphonon4:i386					
+libpipeline1:i386				
+libpixman-1-0:i386				
+libpixman-1-dev					
+libplayerc++3.0					
+libplayerc3.0					
+libplayercommon3.0				
+libplayercore3.0				
+libplayerdrivers3.0				
+libplayerinterface3.0				
+libplayerjpeg3.0				
+libplayertcp3.0					
+libplayerwkb3.0					
+libplist1:i386					
+libplymouth2:i386				
+libpmap3.0					
+libpng12-0:i386					
+libpng12-dev					
+libpocketsphinx1				
+libpoco-dev					
+libpococrypto9					
+libpocodata9					
+libpocofoundation9				
+libpocomysql9					
+libpoconet9					
+libpoconetssl9					
+libpocoodbc9					
+libpocosqlite9					
+libpocoutil9					
+libpocoxml9					
+libpocozip9					
+libpod-latex-perl				
+libpolkit-agent-1-0:i386			
+libpolkit-backend-1-0:i386			
+libpolkit-gobject-1-0:i386			
+libpoppler-glib8:i386				
+libpoppler44:i386				
+libpopt0:i386					
+libportaudio2:i386				
+libpq-dev					
+libpq5						
+libprocps3:i386					
+libprotobuf-dev:i386				
+libprotobuf-lite8:i386				
+libprotobuf8:i386				
+libprotoc8:i386					
+libproxy1:i386					
+libproxy1-plugin-gsettings:i386			
+libproxy1-plugin-networkmanager:i386		
+libpthread-stubs0-dev:i386			
+libpulse-mainloop-glib0:i386			
+libpulse0:i386					
+libpulsedsp:i386				
+libpurple-bin					
+libpurple0					
+libpwquality-common				
+libpwquality1:i386				
+libpyside-dev					
+libpyside-py3-1.2:i386				
+libpyside1.2:i386				
+libpython-dev:i386				
+libpython-stdlib:i386				
+libpython2.7:i386				
+libpython2.7-dev:i386				
+libpython2.7-minimal:i386			
+libpython2.7-stdlib:i386			
+libpython3-stdlib:i386				
+libpython3.4:i386				
+libpython3.4-minimal:i386			
+libpython3.4-stdlib:i386			
+libpyzy-1.0-0					
+libqhull-dev:i386				
+libqhull6:i386					
+libqmi-glib0:i386				
+libqpdf13:i386					
+libqt4-dbus:i386				
+libqt4-declarative:i386				
+libqt4-designer:i386				
+libqt4-dev					
+libqt4-dev-bin					
+libqt4-help:i386				
+libqt4-network:i386				
+libqt4-opengl:i386				
+libqt4-opengl-dev				
+libqt4-qt3support:i386				
+libqt4-script:i386				
+libqt4-scripttools:i386				
+libqt4-sql:i386					
+libqt4-sql-sqlite:i386				
+libqt4-svg:i386					
+libqt4-test:i386				
+libqt4-xml:i386					
+libqt4-xmlpatterns:i386				
+libqt5core5a:i386				
+libqt5dbus5:i386				
+libqt5feedback5:i386				
+libqt5gui5:i386					
+libqt5multimedia5:i386				
+libqt5network5:i386				
+libqt5opengl5:i386				
+libqt5organizer5:i386				
+libqt5positioning5:i386				
+libqt5printsupport5:i386			
+libqt5qml-graphicaleffects:i386			
+libqt5qml5:i386					
+libqt5quick5:i386				
+libqt5sensors5:i386				
+libqt5sql5:i386					
+libqt5sql5-sqlite:i386				
+libqt5svg5:i386					
+libqt5test5:i386				
+libqt5webkit5:i386				
+libqt5webkit5-qmlwebkitplugin:i386		
+libqt5widgets5:i386				
+libqt5xml5:i386					
+libqtassistantclient4:i386			
+libqtcore4:i386					
+libqtdbus4:i386					
+libqtgui4:i386					
+libqtwebkit-dev					
+libqtwebkit4:i386				
+libquadmath0:i386				
+libqwt-dev					
+libqwt5-qt4					
+libqwt6						
+libraptor2-0:i386				
+librasqal3:i386					
+libraw1394-11:i386				
+libraw1394-dev:i386				
+libraw1394-tools				
+libraw9:i386					
+librdf0:i386					
+libreadline-dev:i386				
+libreadline5:i386				
+libreadline6:i386				
+libreadline6-dev:i386				
+libreoffice-avmedia-backend-gstreamer		
+libreoffice-base-core				
+libreoffice-calc				
+libreoffice-common				
+libreoffice-core				
+libreoffice-draw				
+libreoffice-gnome				
+libreoffice-gtk					
+libreoffice-help-en-us				
+libreoffice-impress				
+libreoffice-math				
+libreoffice-ogltrans				
+libreoffice-pdfimport				
+libreoffice-presentation-minimizer		
+libreoffice-style-human				
+libreoffice-writer				
+librest-0.7-0:i386				
+librhythmbox-core8				
+libroken18-heimdal:i386				
+librsvg2-2:i386					
+librsvg2-common:i386				
+librsync1:i386					
+librtmp-dev					
+librtmp0:i386					
+libruby1.9.1					
+libsamplerate0:i386				
+libsane:i386					
+libsane-common					
+libsane-hpaio					
+libsasl2-2:i386					
+libsasl2-modules:i386				
+libsasl2-modules-db:i386			
+libsbc1:i386					
+libschroedinger-1.0-0:i386			
+libsctp-dev					
+libsctp1:i386					
+libsdformat-dev:i386				
+libsdformat1:i386				
+libsdl1.2debian:i386				
+libsecret-1-0:i386				
+libsecret-common				
+libselinux1:i386				
+libsemanage-common				
+libsemanage1:i386				
+libsensors4:i386				
+libsepol1:i386					
+libserf-1-1:i386				
+libsgutils2-2					
+libshiboken-dev					
+libshiboken-py3-1.2:i386			
+libshiboken1.2:i386				
+libshout3:i386					
+libsidplay1					
+libsigc++-2.0-0c2a:i386				
+libsignon-extension1				
+libsignon-glib1					
+libsignon-plugins-common1			
+libsignon-qt5-1					
+libsilly					
+libslang2:i386					
+libslv2-9					
+libsm-dev:i386					
+libsm6:i386					
+libsmbclient:i386				
+libsndfile1:i386				
+libsnmp-base					
+libsnmp30:i386					
+libsocket6-perl					
+libsonic0:i386					
+libsoundtouch0:i386				
+libsoup-gnome2.4-1:i386				
+libsoup2.4-1:i386				
+libspandsp2					
+libspectre1:i386				
+libspeechd2:i386				
+libspeex1:i386					
+libspeexdsp1:i386				
+libsphinxbase1					
+libsqlite3-0:i386				
+libsqlite3-dev:i386				
+libsrtp0					
+libss2:i386					
+libssh-4:i386					
+libssl-dev:i386					
+libssl-doc					
+libssl1.0.0:i386				
+libstartup-notification0:i386			
+libstatgrab9					
+libstdc++-4.8-dev:i386				
+libstdc++6:i386					
+libsub-identify-perl				
+libsub-name-perl				
+libsvn1:i386					
+libswscale-dev					
+libswscale2:i386				
+libsys-hostname-long-perl			
+libsystemd-daemon0:i386				
+libsystemd-journal0:i386			
+libsystemd-login0:i386				
+libt1-5						
+libtag1-vanilla:i386				
+libtag1c2a:i386					
+libtalloc2:i386					
+libtar0						
+libtasn1-6:i386					
+libtasn1-6-dev					
+libtbb-dev					
+libtbb2						
+libtcl8.6:i386					
+libtdb1:i386					
+libtelepathy-farstream3:i386			
+libtelepathy-glib0:i386				
+libtelepathy-logger3:i386			
+libterm-ui-perl					
+libtevent0:i386					
+libtext-charwidth-perl				
+libtext-iconv-perl				
+libtext-levenshtein-perl			
+libtext-soundex-perl				
+libtext-wrapi18n-perl				
+libthai-data					
+libthai0:i386					
+libtheora-dev:i386				
+libtheora0:i386					
+libthumbnailer0:i386				
+libtiff5:i386					
+libtiff5-dev:i386				
+libtiffxx5:i386					
+libtimedate-perl				
+libtimezonemap1					
+libtinfo-dev:i386				
+libtinfo5:i386					
+libtinyxml-dev:i386				
+libtinyxml2.6.2:i386				
+libtk8.6:i386					
+libtool						
+libtorque2					
+libtotem-plparser18				
+libtotem0					
+libts-0.0-0:i386				
+libtwolame0					
+libtxc-dxtn-s2tc0:i386				
+libudev1:i386					
+libudisks2-0:i386				
+libufe-xidgetter0				
+libunistring0:i386				
+libunity-action-qt1:i386			
+libunity-control-center1			
+libunity-core-6.0-9				
+libunity-gtk2-parser0:i386			
+libunity-gtk3-parser0:i386			
+libunity-misc4					
+libunity-protocol-private0:i386			
+libunity-scopes-json-def-desktop		
+libunity-webapps0				
+libunity9:i386					
+libunityvoice1:i386				
+libupower-glib1:i386				
+libupstart1:i386				
+liburdfdom-dev:i386				
+liburdfdom-headers-dev				
+liburdfdom-model-state0.2:i386			
+liburdfdom-model0.2:i386			
+liburdfdom-sensor0.2:i386			
+liburdfdom-world0.2:i386			
+liburi-perl					
+liburiparser1					
+liburl-dispatcher1:i386				
+libusb-0.1-4:i386				
+libusb-1.0-0:i386				
+libusb-1.0-0-dev:i386				
+libusb-1.0-doc					
+libusbmuxd2					
+libustr-1.0-1:i386				
+libutempter0					
+libuuid-perl					
+libuuid1:i386					
+libv4l-0:i386					
+libv4lconvert0:i386				
+libva1:i386					
+libvisio-0.0-0					
+libvisual-0.4-0:i386				
+libvisual-0.4-plugins:i386			
+libvncserver0:i386				
+libvo-aacenc0:i386				
+libvo-amrwbenc0:i386				
+libvorbis0a:i386				
+libvorbisenc2:i386				
+libvorbisfile3:i386				
+libvpx1:i386					
+libvte-2.90-9					
+libvte-2.90-common				
+libvtk-java					
+libvtk5-dev					
+libvtk5-qt4-dev					
+libvtk5.8					
+libvtk5.8-qt4					
+libwacom-common					
+libwacom2:i386					
+libwavpack1:i386				
+libwayland-client0:i386				
+libwayland-cursor0:i386				
+libwayland-egl1-mesa:i386			
+libwayland-server0:i386				
+libwbclient0:i386				
+libwebkitgtk-3.0-0:i386				
+libwebkitgtk-3.0-common				
+libwebp5:i386					
+libwebpmux1:i386				
+libwhoopsie-preferences0			
+libwhoopsie0					
+libwildmidi-config				
+libwildmidi1:i386				
+libwind0-heimdal:i386				
+libwmf0.2-7:i386				
+libwmf0.2-7-gtk					
+libwnck-3-0:i386				
+libwnck-3-common				
+libwnck-common					
+libwnck22					
+libwpd-0.9-9					
+libwpg-0.2-2					
+libwps-0.2-2					
+libwrap0:i386					
+libwxbase2.8-0:i386				
+libwxgtk-media2.8-0:i386			
+libwxgtk2.8-0:i386				
+libx11-6:i386					
+libx11-data					
+libx11-dev:i386					
+libx11-doc					
+libx11-xcb-dev:i386				
+libx11-xcb1:i386				
+libx264-142:i386				
+libx86-1:i386					
+libxapian22					
+libxatracker2:i386				
+libxau-dev:i386					
+libxau6:i386					
+libxaw7:i386					
+libxaw7-dev:i386				
+libxcb-dri2-0:i386				
+libxcb-dri2-0-dev:i386				
+libxcb-dri3-0:i386				
+libxcb-dri3-dev:i386				
+libxcb-glx0:i386				
+libxcb-glx0-dev:i386				
+libxcb-icccm4:i386				
+libxcb-image0:i386				
+libxcb-keysyms1:i386				
+libxcb-present-dev:i386				
+libxcb-present0:i386				
+libxcb-randr0:i386				
+libxcb-randr0-dev:i386				
+libxcb-render-util0:i386			
+libxcb-render0:i386				
+libxcb-render0-dev:i386				
+libxcb-shape0:i386				
+libxcb-shape0-dev:i386				
+libxcb-shm0:i386				
+libxcb-shm0-dev:i386				
+libxcb-sync-dev:i386				
+libxcb-sync1:i386				
+libxcb-util0:i386				
+libxcb-xfixes0:i386				
+libxcb-xfixes0-dev:i386				
+libxcb-xkb1:i386				
+libxcb1:i386					
+libxcb1-dev:i386				
+libxcomposite-dev				
+libxcomposite1:i386				
+libxcursor-dev:i386				
+libxcursor1:i386				
+libxdamage-dev:i386				
+libxdamage1:i386				
+libxdmcp-dev:i386				
+libxdmcp6:i386					
+libxerces-c3.1:i386				
+libxerces2-java					
+libxext-dev:i386				
+libxext6:i386					
+libxfixes-dev:i386				
+libxfixes3:i386					
+libxfont1:i386					
+libxft-dev					
+libxft2:i386					
+libxi-dev					
+libxi6:i386					
+libxinerama-dev:i386				
+libxinerama1:i386				
+libxkbcommon-x11-0:i386				
+libxkbcommon0:i386				
+libxkbfile1:i386				
+libxklavier16					
+libxml-commons-external-java			
+libxml-commons-resolver1.1-java			
+libxml2:i386					
+libxml2-dev:i386				
+libxml2-utils					
+libxmu-dev:i386					
+libxmu-headers					
+libxmu6:i386					
+libxmuu1:i386					
+libxp6:i386					
+libxpm-dev:i386					
+libxpm4:i386					
+libxrandr-dev:i386				
+libxrandr2:i386					
+libxrender-dev:i386				
+libxrender1:i386				
+libxres1:i386					
+libxshmfence-dev:i386				
+libxshmfence1:i386				
+libxslt1.1:i386					
+libxss-dev:i386					
+libxss1:i386					
+libxt-dev:i386					
+libxt6:i386					
+libxtables10					
+libxtst6:i386					
+libxv1:i386					
+libxvidcore4:i386				
+libxvmc1:i386					
+libxxf86dga1:i386				
+libxxf86vm-dev:i386				
+libxxf86vm1:i386				
+libyajl2:i386					
+libyaml-0-2:i386				
+libyaml-cpp-dev					
+libyaml-cpp0.5:i386				
+libyaml-tiny-perl				
+libyelp0					
+libzbar0					
+libzeitgeist-1.0-1				
+libzeitgeist-2.0-0:i386				
+libzephyr4:i386					
+libzvbi-common					
+libzvbi0:i386					
+libzzip-0-13:i386				
+libzzip-dev					
+light-themes					
+lightdm						
+lintian						
+linux-firmware					
+linux-generic					
+linux-headers-3.13.0-32				
+linux-headers-3.13.0-32-generic			
+linux-headers-generic				
+linux-image-3.13.0-32-generic			
+linux-image-extra-3.13.0-32-generic		
+linux-image-generic				
+linux-libc-dev:i386				
+linux-sound-base				
+lksctp-tools					
+locales						
+lockfile-progs					
+login						
+logrotate					
+lp-solve					
+lsb-base					
+lsb-release					
+lshw						
+lsof						
+ltrace						
+make						
+makedev						
+man-db						
+manpages					
+manpages-dev					
+mawk						
+mcp-account-manager-uoa				
+media-player-info				
+memtest86+					
+mercurial					
+mercurial-common				
+mesa-common-dev					
+metacity-common					
+mime-support					
+mlocate						
+mobile-broadband-provider-info			
+modemmanager					
+module-init-tools				
+mount						
+mountall					
+mousetweaks					
+mpi-default-bin					
+mpi-default-dev					
+mscompress					
+mtools						
+mtr-tiny					
+multiarch-support				
+myspell-en-au					
+myspell-en-gb					
+myspell-en-za					
+mysql-common					
+mythes-en-us					
+nano						
+nautilus					
+nautilus-data					
+nautilus-sendto					
+nautilus-sendto-empathy				
+nautilus-share					
+ncurses-base					
+ncurses-bin					
+net-tools					
+netbase						
+netcat-openbsd					
+network-manager					
+network-manager-gnome				
+network-manager-pptp				
+network-manager-pptp-gnome			
+notify-osd					
+notify-osd-icons				
+ntfs-3g						
+ntpdate						
+nux-tools					
+obex-data-server				
+obexd-client					
+ocl-icd-libopencl1:i386				
+onboard						
+onboard-data					
+oneconf						
+oneconf-common					
+opencv-data					
+openjdk-7-jdk:i386				
+openjdk-7-jre:i386				
+openjdk-7-jre-headless:i386			
+openmpi-bin					
+openmpi-common					
+openni-utils					
+openoffice.org-hyphenation			
+openprinting-ppds				
+openssh-client					
+openssl						
+os-prober					
+overlay-scrollbar				
+overlay-scrollbar-gtk2:i386			
+overlay-scrollbar-gtk3:i386			
+oxideqt-codecs-extra:i386			
+p11-kit						
+p11-kit-modules:i386				
+parted						
+passwd						
+patch						
+patchutils					
+pciutils					
+pcmciautils					
+perl						
+perl-base					
+perl-modules					
+phonon:i386					
+phonon-backend-gstreamer:i386			
+phonon-backend-gstreamer-common:i386		
+phonon-backend-gstreamer1.0			
+pkg-config					
+plainbox-provider-checkbox			
+plainbox-provider-resource-generic		
+plainbox-secure-policy				
+plymouth					
+plymouth-label					
+plymouth-theme-ubuntu-logo			
+plymouth-theme-ubuntu-text			
+pm-utils					
+po-debconf					
+policykit-1					
+policykit-1-gnome				
+policykit-desktop-privileges			
+poppler-data					
+poppler-utils					
+popularity-contest				
+powermgmt-base					
+ppp						
+pppconfig					
+pppoeconf					
+pptp-linux					
+printer-driver-c2esp				
+printer-driver-foo2zjs				
+printer-driver-foo2zjs-common			
+printer-driver-gutenprint			
+printer-driver-hpcups				
+printer-driver-min12xxw				
+printer-driver-pnm2ppa				
+printer-driver-postscript-hp			
+printer-driver-ptouch				
+printer-driver-pxljr				
+printer-driver-sag-gdi				
+printer-driver-splix				
+procps						
+psmisc						
+pulseaudio					
+pulseaudio-module-bluetooth			
+pulseaudio-module-x11				
+pulseaudio-utils				
+python						
+python-apt					
+python-apt-common				
+python-aptdaemon				
+python-aptdaemon.gtk3widgets			
+python-bson					
+python-bson-ext					
+python-bzrlib					
+python-cairo					
+python-catkin-pkg				
+python-chardet					
+python-commandnotfound				
+python-configobj				
+python-crypto					
+python-cups					
+python-cupshelpers				
+python-dateutil					
+python-dbus					
+python-dbus-dev					
+python-debian					
+python-debtagshw				
+python-defer					
+python-dev					
+python-dirspec					
+python-docutils					
+python-empy					
+python-gconf					
+python-gdbm					
+python-gi					
+python-gi-cairo					
+python-glade2					
+python-gnomekeyring				
+python-gobject					
+python-gobject-2				
+python-gpgme					
+python-gtk2					
+python-httplib2					
+python-ibus					
+python-imaging					
+python-keyring					
+python-launchpadlib				
+python-lazr.restfulclient			
+python-lazr.uri					
+python-ldb					
+python-libxml2					
+python-lockfile					
+python-lxml					
+python-matplotlib				
+python-matplotlib-data				
+python-minimal					
+python-netifaces				
+python-nose					
+python-notify					
+python-ntdb					
+python-numpy					
+python-oauth					
+python-oauthlib					
+python-oneconf					
+python-opencv					
+python-opengl					
+python-openssl					
+python-pam					
+python-paramiko					
+python-pexpect					
+python-pil					
+python-piston-mini-client			
+python-pkg-resources				
+python-psutil					
+python-pycurl					
+python-pydot					
+python-pygments					
+python-pyparsing				
+python-pyside					
+python-pyside.phonon				
+python-pyside.qtcore				
+python-pyside.qtdeclarative			
+python-pyside.qtgui				
+python-pyside.qthelp				
+python-pyside.qtnetwork				
+python-pyside.qtopengl				
+python-pyside.qtscript				
+python-pyside.qtsql				
+python-pyside.qtsvg				
+python-pyside.qttest				
+python-pyside.qtuitools				
+python-pyside.qtwebkit				
+python-pyside.qtxml				
+python-qt4					
+python-qt4-dbus					
+python-qt4-dev					
+python-qt4-gl					
+python-qwt5-qt4					
+python-renderpm					
+python-reportlab				
+python-reportlab-accel				
+python-roman					
+python-rosdep					
+python-rosdistro				
+python-rosinstall			
+python-rospkg					
+python-samba					
+python-secretstorage				
+python-serial					
+python-setuptools				
+python-simplejson				
+python-sip					
+python-sip-dev					
+python-six					
+python-smbc					
+python-support					
+python-talloc					
+python-tdb					
+python-tk					
+python-twisted-bin				
+python-twisted-core				
+python-twisted-web				
+python-tz					
+python-ubuntu-sso-client			
+python-vcstools					
+python-vtk					
+python-wadllib					
+python-wstool					
+python-wxgtk2.8					
+python-wxversion				
+python-xapian					
+python-xdg					
+python-yaml					
+python-zeitgeist				
+python-zope.interface				
+python2.7					
+python2.7-dev					
+python2.7-minimal				
+python3						
+python3-apport					
+python3-apt					
+python3-aptdaemon				
+python3-aptdaemon.gtk3widgets			
+python3-aptdaemon.pkcompat			
+python3-brlapi					
+python3-cairo					
+python3-chardet					
+python3-checkbox-ng				
+python3-checkbox-support			
+python3-commandnotfound				
+python3-crypto					
+python3-dbus					
+python3-debian					
+python3-defer					
+python3-distupgrade				
+python3-feedparser				
+python3-gdbm:i386				
+python3-gi					
+python3-gi-cairo				
+python3-httplib2				
+python3-louis					
+python3-lxml					
+python3-mako					
+python3-markupsafe				
+python3-minimal					
+python3-oauthlib				
+python3-oneconf					
+python3-piston-mini-client			
+python3-pkg-resources				
+python3-plainbox				
+python3-problem-report				
+python3-pyatspi					
+python3-pycurl					
+python3-pyparsing				
+python3-requests				
+python3-six					
+python3-software-properties			
+python3-speechd					
+python3-uno					
+python3-update-manager				
+python3-urllib3					
+python3-xdg					
+python3-xkit					
+python3.4					
+python3.4-minimal				
+qdbus						
+qpdf						
+qt-at-spi:i386					
+qt4-linguist-tools				
+qt4-qmake					
+qtchooser					
+qtcore4-l10n					
+qtdeclarative5-accounts-plugin			
+qtdeclarative5-dialogs-plugin:i386		
+qtdeclarative5-localstorage-plugin:i386		
+qtdeclarative5-privatewidgets-plugin:i386	
+qtdeclarative5-qtfeedback-plugin:i386		
+qtdeclarative5-qtquick2-plugin:i386		
+qtdeclarative5-ubuntu-ui-extras-browser-plugin:i386	
+qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets	
+qtdeclarative5-ubuntu-ui-toolkit-plugin:i386	
+qtdeclarative5-unity-action-plugin:i386		
+qtdeclarative5-window-plugin:i386		
+readline-common					
+remmina						
+remmina-common					
+remmina-plugin-rdp				
+remmina-plugin-vnc				
+resolvconf					
+rfkill						
+rhythmbox					
+rhythmbox-data					
+rhythmbox-mozilla				
+rhythmbox-plugin-cdrecorder			
+rhythmbox-plugin-magnatune			
+rhythmbox-plugin-zeitgeist			
+rhythmbox-plugins				
+robot-player					
+ros-indigo-actionlib				
+ros-indigo-actionlib-msgs			
+ros-indigo-actionlib-tutorials			
+ros-indigo-angles				
+ros-indigo-bond					
+ros-indigo-bond-core				
+ros-indigo-bondcpp				
+ros-indigo-bondpy				
+ros-indigo-camera-calibration			
+ros-indigo-camera-calibration-parsers		
+ros-indigo-camera-info-manager			
+ros-indigo-catkin				
+ros-indigo-class-loader				
+ros-indigo-cmake-modules			
+ros-indigo-collada-parser			
+ros-indigo-collada-urdf				
+ros-indigo-common-msgs				
+ros-indigo-common-tutorials			
+ros-indigo-compressed-depth-image-transport	
+ros-indigo-compressed-image-transport		
+ros-indigo-control-msgs				
+ros-indigo-cpp-common				
+ros-indigo-cv-bridge				
+ros-indigo-depth-image-proc			
+ros-indigo-desktop				
+ros-indigo-desktop-full				
+ros-indigo-diagnostic-aggregator		
+ros-indigo-diagnostic-analysis			
+ros-indigo-diagnostic-common-diagnostics	
+ros-indigo-diagnostic-msgs			
+ros-indigo-diagnostic-updater			
+ros-indigo-diagnostics				
+ros-indigo-driver-base				
+ros-indigo-dynamic-reconfigure			
+ros-indigo-eigen-conversions			
+ros-indigo-eigen-stl-containers			
+ros-indigo-executive-smach			
+ros-indigo-filters				
+ros-indigo-gazebo-msgs				
+ros-indigo-gazebo-plugins			
+ros-indigo-gazebo-ros				
+ros-indigo-gazebo-ros-pkgs			
+ros-indigo-gencpp				
+ros-indigo-genjava				
+ros-indigo-genlisp				
+ros-indigo-genmsg				
+ros-indigo-genpy				
+ros-indigo-geometric-shapes			
+ros-indigo-geometry				
+ros-indigo-geometry-msgs			
+ros-indigo-geometry-tutorials			
+ros-indigo-image-common				
+ros-indigo-image-geometry			
+ros-indigo-image-pipeline			
+ros-indigo-image-proc				
+ros-indigo-image-rotate				
+ros-indigo-image-transport			
+ros-indigo-image-transport-plugins		
+ros-indigo-image-view				
+ros-indigo-interactive-marker-tutorials		
+ros-indigo-interactive-markers			
+ros-indigo-joint-state-publisher		
+ros-indigo-kdl-conversions			
+ros-indigo-kdl-parser				
+ros-indigo-laser-assembler			
+ros-indigo-laser-filters			
+ros-indigo-laser-geometry			
+ros-indigo-laser-pipeline			
+ros-indigo-librviz-tutorial			
+ros-indigo-map-msgs				
+ros-indigo-media-export				
+ros-indigo-message-filters			
+ros-indigo-message-generation			
+ros-indigo-message-runtime			
+ros-indigo-mk					
+ros-indigo-nav-msgs				
+ros-indigo-nodelet				
+ros-indigo-nodelet-core				
+ros-indigo-nodelet-topic-tools			
+ros-indigo-nodelet-tutorial-math		
+ros-indigo-octomap				
+ros-indigo-opencv-apps				
+ros-indigo-orocos-kdl				
+ros-indigo-pcl-conversions			
+ros-indigo-pcl-msgs				
+ros-indigo-pcl-ros				
+ros-indigo-perception				
+ros-indigo-perception-pcl			
+ros-indigo-pluginlib				
+ros-indigo-pluginlib-tutorials			
+ros-indigo-pointcloud-to-laserscan		
+ros-indigo-polled-camera			
+ros-indigo-pr2-description			
+ros-indigo-python-orocos-kdl			
+ros-indigo-python-qt-binding			
+ros-indigo-qt-dotgraph				
+ros-indigo-qt-gui				
+ros-indigo-qt-gui-cpp				
+ros-indigo-qt-gui-py-common			
+ros-indigo-random-numbers			
+ros-indigo-resource-retriever			
+ros-indigo-robot				
+ros-indigo-robot-model				
+ros-indigo-robot-state-publisher		
+ros-indigo-ros					
+ros-indigo-ros-base				
+ros-indigo-ros-comm				
+ros-indigo-ros-core				
+ros-indigo-ros-tutorials			
+ros-indigo-rosapi				
+ros-indigo-rosauth				
+ros-indigo-rosbag				
+ros-indigo-rosbag-migration-rule		
+ros-indigo-rosbag-storage			
+ros-indigo-rosbash				
+ros-indigo-rosboost-cfg				
+ros-indigo-rosbridge-library			
+ros-indigo-rosbridge-server			
+ros-indigo-rosbuild				
+ros-indigo-rosclean				
+ros-indigo-rosconsole				
+ros-indigo-rosconsole-bridge			
+ros-indigo-roscpp				
+ros-indigo-roscpp-core				
+ros-indigo-roscpp-serialization			
+ros-indigo-roscpp-traits			
+ros-indigo-roscpp-tutorials			
+ros-indigo-roscreate				
+ros-indigo-rosgraph				
+ros-indigo-rosgraph-msgs			
+ros-indigo-rosjava-bootstrap			
+ros-indigo-rosjava-build-tools			
+ros-indigo-roslang				
+ros-indigo-roslaunch				
+ros-indigo-roslib				
+ros-indigo-roslint				
+ros-indigo-roslisp				
+ros-indigo-roslz4				
+ros-indigo-rosmake				
+ros-indigo-rosmaster				
+ros-indigo-rosmsg				
+ros-indigo-rosnode				
+ros-indigo-rosout				
+ros-indigo-rospack				
+ros-indigo-rosparam				
+ros-indigo-rospy				
+ros-indigo-rospy-tutorials			
+ros-indigo-rosservice				
+ros-indigo-rostest				
+ros-indigo-rostime				
+ros-indigo-rostopic				
+ros-indigo-rosunit				
+ros-indigo-roswtf				
+ros-indigo-rqt-action				
+ros-indigo-rqt-bag				
+ros-indigo-rqt-bag-plugins			
+ros-indigo-rqt-common-plugins			
+ros-indigo-rqt-console				
+ros-indigo-rqt-dep				
+ros-indigo-rqt-graph				
+ros-indigo-rqt-gui				
+ros-indigo-rqt-gui-cpp				
+ros-indigo-rqt-gui-py				
+ros-indigo-rqt-image-view			
+ros-indigo-rqt-launch				
+ros-indigo-rqt-logger-level			
+ros-indigo-rqt-moveit				
+ros-indigo-rqt-msg				
+ros-indigo-rqt-nav-view				
+ros-indigo-rqt-plot				
+ros-indigo-rqt-pose-view			
+ros-indigo-rqt-publisher			
+ros-indigo-rqt-py-common			
+ros-indigo-rqt-py-console			
+ros-indigo-rqt-reconfigure			
+ros-indigo-rqt-robot-dashboard			
+ros-indigo-rqt-robot-monitor			
+ros-indigo-rqt-robot-plugins			
+ros-indigo-rqt-robot-steering			
+ros-indigo-rqt-runtime-monitor			
+ros-indigo-rqt-rviz				
+ros-indigo-rqt-service-caller			
+ros-indigo-rqt-shell				
+ros-indigo-rqt-srv				
+ros-indigo-rqt-tf-tree				
+ros-indigo-rqt-top				
+ros-indigo-rqt-topic				
+ros-indigo-rqt-web				
+ros-indigo-rviz					
+ros-indigo-rviz-plugin-tutorials		
+ros-indigo-rviz-python-tutorial			
+ros-indigo-self-test				
+ros-indigo-sensor-msgs				
+ros-indigo-shape-msgs				
+ros-indigo-shape-tools				
+ros-indigo-simulators				
+ros-indigo-smach				
+ros-indigo-smach-msgs				
+ros-indigo-smach-ros				
+ros-indigo-smclib				
+ros-indigo-stage				
+ros-indigo-stage-ros				
+ros-indigo-std-msgs				
+ros-indigo-std-srvs				
+ros-indigo-stereo-image-proc			
+ros-indigo-stereo-msgs				
+ros-indigo-tf					
+ros-indigo-tf-conversions			
+ros-indigo-tf2					
+ros-indigo-tf2-geometry-msgs			
+ros-indigo-tf2-kdl				
+ros-indigo-tf2-msgs				
+ros-indigo-tf2-py				
+ros-indigo-tf2-ros				
+ros-indigo-tf2-sensor-msgs			
+ros-indigo-theora-image-transport		
+ros-indigo-topic-tools				
+ros-indigo-trajectory-msgs			
+ros-indigo-turtle-actionlib			
+ros-indigo-turtle-tf				
+ros-indigo-turtle-tf2				
+ros-indigo-turtlesim				
+ros-indigo-urdf					
+ros-indigo-urdf-parser-plugin			
+ros-indigo-urdf-tutorial			
+ros-indigo-vision-opencv			
+ros-indigo-visualization-marker-tutorials	
+ros-indigo-visualization-msgs			
+ros-indigo-visualization-tutorials		
+ros-indigo-viz					
+ros-indigo-xacro				
+ros-indigo-xmlrpcpp				
+rsync						
+rsyslog						
+rtkit						
+ruby						
+ruby1.9.1					
+samba-common					
+samba-common-bin				
+samba-libs:i386					
+sane-utils					
+sbcl						
+screen						
+seahorse					
+sed						
+sensible-utils					
+session-migration				
+sessioninstaller				
+sgml-base					
+shared-mime-info				
+shiboken					
+shotwell					
+shotwell-common					
+signon-keyring-extension			
+signon-plugin-oauth2				
+signon-plugin-password				
+signon-ui					
+signond						
+simple-scan					
+sip-dev						
+smbclient					
+sni-qt:i386					
+software-center					
+software-center-aptdaemon-plugins		
+software-properties-common			
+software-properties-gtk				
+sound-theme-freedesktop				
+speech-dispatcher				
+speech-dispatcher-audio-plugins:i386		
+sphinx-voxforge-hmm-en				
+sphinx-voxforge-lm-en				
+ssh-askpass-gnome				
+ssl-cert					
+strace						
+subversion					
+sudo						
+syslinux					
+syslinux-common					
+syslinux-legacy					
+system-config-printer-common			
+system-config-printer-gnome			
+system-config-printer-udev			
+systemd-services				
+systemd-shim					
+sysv-rc						
+sysvinit-utils					
+t1utils						
+tango-icon-theme				
+tar						
+tcl						
+tcl-vtk						
+tcl8.6						
+tcl8.6-dev:i386					
+tcpd						
+tcpdump						
+telepathy-gabble				
+telepathy-haze					
+telepathy-idle					
+telepathy-indicator				
+telepathy-logger				
+telepathy-mission-control-5			
+telepathy-salut					
+telnet						
+thunderbird					
+thunderbird-gnome-support			
+thunderbird-locale-en				
+thunderbird-locale-en-us			
+time						
+tk						
+tk8.6						
+tk8.6-dev:i386					
+toshset						
+totem						
+totem-common					
+totem-mozilla					
+totem-plugins					
+transmission-common				
+transmission-gtk				
+tree						
+tsconf						
+ttf-dejavu-core					
+ttf-indic-fonts-core				
+ttf-punjabi-fonts				
+ttf-ubuntu-font-family				
+tzdata						
+tzdata-java					
+ubuntu-artwork					
+ubuntu-desktop					
+ubuntu-docs					
+ubuntu-drivers-common				
+ubuntu-extras-keyring				
+ubuntu-keyring					
+ubuntu-minimal					
+ubuntu-mono					
+ubuntu-release-upgrader-core			
+ubuntu-release-upgrader-gtk			
+ubuntu-restricted-addons			
+ubuntu-session					
+ubuntu-settings					
+ubuntu-sounds					
+ubuntu-sso-client				
+ubuntu-sso-client-qt				
+ubuntu-standard					
+ubuntu-system-service				
+ubuntu-ui-toolkit-theme				
+ubuntu-wallpapers				
+ubuntu-wallpapers-trusty			
+ubuntuone-client-data				
+ucf						
+udev						
+udisks2						
+ufw						
+unattended-upgrades				
+unity						
+unity-asset-pool				
+unity-control-center				
+unity-control-center-signon			
+unity-greeter					
+unity-gtk-module-common				
+unity-gtk2-module:i386				
+unity-gtk3-module:i386				
+unity-lens-applications				
+unity-lens-files				
+unity-lens-friends				
+unity-lens-music				
+unity-lens-photos				
+unity-lens-video				
+unity-scope-audacious				
+unity-scope-calculator				
+unity-scope-chromiumbookmarks			
+unity-scope-clementine				
+unity-scope-colourlovers			
+unity-scope-devhelp				
+unity-scope-firefoxbookmarks			
+unity-scope-gdrive				
+unity-scope-gmusicbrowser			
+unity-scope-gourmet				
+unity-scope-guayadeque				
+unity-scope-home				
+unity-scope-manpages				
+unity-scope-musicstores				
+unity-scope-musique				
+unity-scope-openclipart				
+unity-scope-texdoc				
+unity-scope-tomboy				
+unity-scope-video-remote			
+unity-scope-virtualbox				
+unity-scope-yelp				
+unity-scope-zotero				
+unity-scopes-master-default			
+unity-scopes-runner				
+unity-services					
+unity-settings-daemon				
+unity-voice-service:i386			
+unity-webapps-common				
+unity-webapps-qml				
+unity-webapps-service				
+uno-libs3					
+unzip						
+update-inetd					
+update-manager					
+update-manager-core				
+update-notifier					
+update-notifier-common				
+upower						
+upstart						
+ure						
+ureadahead					
+usb-creator-common				
+usb-creator-gtk					
+usb-modeswitch					
+usb-modeswitch-data				
+usbmuxd						
+usbutils					
+util-linux					
+uuid-dev					
+uuid-runtime					
+vbetool						
+vim						
+vim-common					
+vim-gnome					
+vim-gui-common					
+vim-runtime					
+vim-tiny					
+vino						
+virtualbox-guest-dkms				
+virtualbox-guest-utils				
+virtualbox-guest-x11				
+wamerican					
+wbritish					
+webaccounts-extension-common			
+webapp-container				
+webbrowser-app					
+wget						
+whiptail					
+whoopsie					
+whoopsie-preferences				
+wireless-regdb					
+wireless-tools					
+wodim						
+wpasupplicant					
+x11-apps					
+x11-common					
+x11-session-utils				
+x11-utils					
+x11-xfs-utils					
+x11-xkb-utils					
+x11-xserver-utils				
+x11proto-composite-dev				
+x11proto-core-dev				
+x11proto-damage-dev				
+x11proto-dri2-dev				
+x11proto-fixes-dev				
+x11proto-gl-dev					
+x11proto-input-dev				
+x11proto-kb-dev					
+x11proto-randr-dev				
+x11proto-render-dev				
+x11proto-scrnsaver-dev				
+x11proto-xext-dev				
+x11proto-xf86vidmode-dev			
+x11proto-xinerama-dev				
+xauth						
+xbitmaps					
+xcursor-themes					
+xdg-user-dirs					
+xdg-user-dirs-gtk				
+xdg-utils					
+xdiagnose					
+xfonts-base					
+xfonts-encodings				
+xfonts-mathml					
+xfonts-scalable					
+xfonts-utils					
+xinit						
+xinput						
+xkb-data					
+xml-core					
+xorg						
+xorg-docs-core					
+xorg-sgml-doctools				
+xserver-common					
+xserver-xorg					
+xserver-xorg-core				
+xserver-xorg-input-all				
+xserver-xorg-input-evdev			
+xserver-xorg-input-mouse			
+xserver-xorg-input-synaptics			
+xserver-xorg-input-vmmouse			
+xserver-xorg-input-wacom			
+xserver-xorg-video-all				
+xserver-xorg-video-ati				
+xserver-xorg-video-cirrus			
+xserver-xorg-video-fbdev			
+xserver-xorg-video-glamoregl			
+xserver-xorg-video-intel			
+xserver-xorg-video-mach64			
+xserver-xorg-video-mga				
+xserver-xorg-video-modesetting			
+xserver-xorg-video-neomagic			
+xserver-xorg-video-nouveau			
+xserver-xorg-video-openchrome			
+xserver-xorg-video-qxl				
+xserver-xorg-video-r128				
+xserver-xorg-video-radeon			
+xserver-xorg-video-s3				
+xserver-xorg-video-savage			
+xserver-xorg-video-siliconmotion		
+xserver-xorg-video-sis				
+xserver-xorg-video-sisusb			
+xserver-xorg-video-tdfx				
+xserver-xorg-video-trident			
+xserver-xorg-video-vesa				
+xserver-xorg-video-vmware			
+xterm						
+xtrans-dev					
+xul-ext-ubufox					
+xul-ext-unity					
+xul-ext-webaccounts				
+xul-ext-websites-integration			
+xz-utils					
+yelp						
+yelp-xsl					
+zeitgeist					
+zeitgeist-core					
+zeitgeist-datahub				
+zenity						
+zenity-common					
+zip						
+zlib1g:i386					
+zlib1g-dev:i386	
